@@ -74,7 +74,7 @@
         "image_desktop": "shopify:\/\/shop_images\/png-banner.jpg",
         "url": "",
         "height_mode": "fixed",
-        "fixed_height_desktop": 460,
+        "fixed_height_desktop": 430,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
