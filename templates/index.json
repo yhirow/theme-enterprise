@@ -151,7 +151,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Versatilidad inigualable.<br\/>Puedes utilizarla tanto en la estufa como en el horno gracias a sus mangos de metal que resisten temperaturas de hasta 870 grados centígrados. Además puede ser usada en estufas convencionales, eléctricas o de inducción.<\/p>",
-            "enlarge_text": true
+            "enlarge_text": false
           }
         }
       },
