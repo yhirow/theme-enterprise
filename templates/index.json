@@ -143,7 +143,7 @@
           "type": "heading",
           "settings": {
             "heading": "TODO TERRENO",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "heading_h1": false
           }
         },
@@ -176,7 +176,7 @@
           "type": "heading",
           "settings": {
             "heading": "LEGADO DE SABORES",
-            "heading_size": "h3",
+            "heading_size": "h5",
             "heading_h1": false
           }
         },
@@ -184,7 +184,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Construida con titanio y diseñada para durar más de 200 años, o hasta 90,000 lavadas, Titan Black Essential permanecerá en tu cocina por generaciones<\/p>",
-            "enlarge_text": true
+            "enlarge_text": false
           }
         },
         "button_pyBdi7": {
