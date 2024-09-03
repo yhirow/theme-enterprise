@@ -53,6 +53,7 @@
         "announcement-1",
         "announcement-2"
       ],
+      "disabled": true,
       "settings": {
         "link1": "",
         "link1_label": "",
