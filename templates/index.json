@@ -102,8 +102,8 @@
         "text_kYdjH7": {
           "type": "text",
           "settings": {
-            "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/>Ofrece resistencia y durabilidad excepcionales. <br\/>Garantiza una inversión a largo plazo. <br\/>Soporta hasta 90 mil lavadas sin perder integridad ni rendimiento.<br\/> Redefine el estándar de la cocina profesional en el hogar.<\/p>",
-            "enlarge_text": false
+            "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/>Ofrece resistencia y durabilidad excepcionales. <br\/>Garantiza una inversión a largo plazo. <br\/><\/p>",
+            "enlarge_text": true
           }
         },
         "button_N6ch74": {
