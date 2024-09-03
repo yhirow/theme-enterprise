@@ -136,6 +136,14 @@
     "media_with_text_PjzmgU": {
       "type": "media-with-text",
       "blocks": {
+        "heading_RkhiBY": {
+          "type": "heading",
+          "settings": {
+            "heading": "TODO TERRENO",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
         "text_xQJLDb": {
           "type": "text",
           "settings": {
@@ -145,6 +153,7 @@
         }
       },
       "block_order": [
+        "heading_RkhiBY",
         "text_xQJLDb"
       ],
       "settings": {
@@ -199,6 +208,26 @@
         "text_align": "text-start",
         "color_scheme": "2"
       }
+    },
+    "featured_collection_BjKMUQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PRODUCTOS TITAN BLACK",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "grid",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
     }
   },
   "order": [
@@ -206,6 +235,7 @@
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "media_with_text_PjzmgU",
-    "media_with_text_YBJzMj"
+    "media_with_text_YBJzMj",
+    "featured_collection_BjKMUQ"
   ]
 }
