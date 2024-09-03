@@ -19,7 +19,7 @@
         "logo_text": "Titan Black",
         "logo_type_scale": "2",
         "logo": "{{ shop.brand.logo }}",
-        "logo_width": 150,
+        "logo_width": 80,
         "logo_h1": true,
         "enable_search": true,
         "minimise_search_mobile": true,
