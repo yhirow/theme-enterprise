@@ -281,7 +281,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -313,7 +313,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -345,7 +345,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -377,7 +377,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -566,6 +566,62 @@
         "border_color": "rgba(0,0,0,0)",
         "bg_color": "#f4f4f4"
       }
+    },
+    "image_banner_Ep3YpK": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HL7L9g": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_6UxXmq": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_cryFKN": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HL7L9g",
+        "text_6UxXmq",
+        "button_cryFKN"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-TV.png",
+        "image_mobile": "shopify:\/\/shop_images\/Copia_de_MG_BENEFICIOS_2.png",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
     }
   },
   "order": [
@@ -577,6 +633,7 @@
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "featured_collection_BjKMUQ",
-    "featured_product_zyAGmb"
+    "featured_product_zyAGmb",
+    "image_banner_Ep3YpK"
   ]
 }
