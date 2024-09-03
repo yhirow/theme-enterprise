@@ -15,7 +15,7 @@
         "heading_ACC7Mp": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "TITAN BLACK essential",
             "heading_size": "h1",
             "heading_h1": false
           }
@@ -23,7 +23,7 @@
         "text_wMcCxm": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet,<br\/>con una batería de cocina de Titanio de alta calidad.<\/p>",
             "enlarge_text": true
           }
         },
@@ -45,6 +45,7 @@
         "button_68jEg8"
       ],
       "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/titan04.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
