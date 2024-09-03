@@ -167,11 +167,11 @@
         "text_xQJLDb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC_8597-02.png",
+        "image": "shopify:\/\/shop_images\/TODO-TERRENO.png",
         "video_external": "",
         "video_description": "",
         "video_autoplay": true,
-        "layout": "left",
+        "layout": "right",
         "text_align": "text-center",
         "color_scheme": "none"
       }
@@ -214,7 +214,7 @@
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
-        "layout": "right",
+        "layout": "left",
         "text_align": "text-center",
         "color_scheme": "none"
       }
