@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "button_1_label": "Comprar Ahora",
-            "button_1_link": "",
+            "button_1_link": "shopify:\/\/products\/titan-black",
             "button_1_style": "btn btn--primary",
             "button_2_label": "",
             "button_2_link": "",
