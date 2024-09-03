@@ -220,7 +220,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/web-ofical.png",
             "image_mobile": "shopify:\/\/shop_images\/mobile-oficialk-2.png",
-            "overlay_position": "justify-start items-center",
+            "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
             "subheading": "",
