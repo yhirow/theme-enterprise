@@ -53,7 +53,6 @@
         "announcement-1",
         "announcement-2"
       ],
-      "disabled": true,
       "settings": {
         "link1": "",
         "link1_label": "",
@@ -61,7 +60,7 @@
         "link2_label": "",
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "bg_color": "#ff580d",
+        "bg_color": "#ce6b3d",
         "text_color": "#ffffff",
         "text_type_scale": "small",
         "read_time": 7
