@@ -102,7 +102,7 @@
         "text_kYdjH7": {
           "type": "text",
           "settings": {
-            "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/>Ofrece resistencia y durabilidad excepcionales. <br\/>Garantiza una inversión a largo plazo. <br\/><\/p>",
+            "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/><br\/><\/p>",
             "enlarge_text": true
           }
         },
