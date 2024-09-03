@@ -256,7 +256,7 @@
     "blend_product_images": false,
     "blend_collection_images": true,
     "blend_bg_color": "#f4f4f4",
-    "heading_font": "roboto_n4",
+    "heading_font": "inter_n4",
     "heading_uppercase": false,
     "subheading_uppercase": false,
     "button_text_uppercase": false,
