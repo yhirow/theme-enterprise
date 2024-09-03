@@ -154,7 +154,7 @@
         "video_autoplay": false,
         "layout": "left",
         "text_align": "text-start",
-        "color_scheme": "none"
+        "color_scheme": "2"
       }
     },
     "media_with_text_YBJzMj": {
@@ -197,7 +197,7 @@
         "video_autoplay": false,
         "layout": "right",
         "text_align": "text-start",
-        "color_scheme": "none"
+        "color_scheme": "2"
       }
     }
   },
