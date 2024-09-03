@@ -61,9 +61,82 @@
         "tint_opacity": 40,
         "prevent_animation": false
       }
+    },
+    "image_banner_dnkUJM": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/PRODUCT_Titan_blac_02.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 460,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_mBgfiK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_z7BReV": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_7fP7PH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Del espacio exterior a tu cocina",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_kYdjH7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/>Ofrece resistencia y durabilidad excepcionales. <br\/>Garantiza una inversión a largo plazo. <br\/>Soporta hasta 90 mil lavadas sin perder integridad ni rendimiento.<br\/> Redefine el estándar de la cocina profesional en el hogar.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_N6ch74": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_z7BReV",
+        "heading_7fP7PH",
+        "text_kYdjH7",
+        "button_N6ch74"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
     }
   },
   "order": [
-    "image_banner_z4hG9a"
+    "image_banner_z4hG9a",
+    "image_banner_dnkUJM",
+    "rich_text_mBgfiK"
   ]
 }
