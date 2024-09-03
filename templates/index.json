@@ -225,7 +225,7 @@
         "slide_kigTng": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/linea-delgada-web.png",
+            "image_desktop": "shopify:\/\/shop_images\/back_1.png",
             "image_mobile": "shopify:\/\/shop_images\/back.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -257,6 +257,7 @@
         "slide_HLJ4D4": {
           "type": "slide",
           "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/inteligfencia.png",
             "image_mobile": "shopify:\/\/shop_images\/inteligencia.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -288,6 +289,7 @@
         "slide_pWUWNH": {
           "type": "slide",
           "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/saborea_2.png",
             "image_mobile": "shopify:\/\/shop_images\/saborea.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -319,19 +321,21 @@
         "slide_geepxd": {
           "type": "slide",
           "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/terreno_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/terreno.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
-            "subheading": "Subheading",
-            "heading": "Slideshow",
+            "subheading": "",
+            "heading": "",
             "heading_size": "h0",
             "heading_h1": false,
-            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "text": "",
             "enlarge_text": true,
-            "button_1_label": "Optional button",
+            "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
+            "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary",
             "countdown_show": false,
