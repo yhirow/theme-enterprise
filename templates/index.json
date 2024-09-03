@@ -132,11 +132,36 @@
         "full_width": true,
         "prevent_animation": false
       }
+    },
+    "media_with_text_PjzmgU": {
+      "type": "media-with-text",
+      "blocks": {
+        "text_xQJLDb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Versatilidad inigualable.<br\/>Puedes utilizarla tanto en la estufa como<br\/>en el horno gracias a sus mangos de metal<br\/>que resisten temperaturas<br\/>de hasta 870 grados centígrados.<br\/>Además puede ser usada en estufas<br\/>convencionales,<br\/>eléctricas o de inducción.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_xQJLDb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TODO-TERRENO.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
     }
   },
   "order": [
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
-    "rich_text_mBgfiK"
+    "rich_text_mBgfiK",
+    "media_with_text_PjzmgU"
   ]
 }
