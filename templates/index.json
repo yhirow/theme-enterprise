@@ -489,27 +489,25 @@
         "heading_baLHL4": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_size": "h1",
             "heading_h1": false
           }
         },
         "text_AJtY6e": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "",
             "enlarge_text": true
           }
         },
         "button_Gjn7Pa": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_1_label": "Optional button",
+            "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
+            "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary"
           }
