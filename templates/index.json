@@ -213,79 +213,6 @@
         "color_scheme": "1"
       }
     },
-    "image_banner_9At4aL": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_Xifp3j": {
-          "type": "heading",
-          "settings": {
-            "heading": "Back to Black",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_ezhTmk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "button_BMiFiz": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xifp3j",
-        "text_ezhTmk",
-        "button_BMiFiz"
-      ],
-      "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/03_banner_ollas_v2.png",
-        "url": "",
-        "height_mode": "auto",
-        "fixed_height_desktop": 600,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-start items-center",
-        "overlay_text_align": "text-start",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "3",
-        "full_width": true,
-        "tint_color": "#000000",
-        "tint_opacity": 40,
-        "prevent_animation": false
-      }
-    },
-    "featured_collection_BjKMUQ": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "PRODUCTOS TITAN BLACK",
-        "heading_align": "text-center",
-        "show_view_all": true,
-        "collection": "titan-black",
-        "layout": "grid",
-        "card_size": "medium",
-        "products_to_show": 8,
-        "show_promo_info": false,
-        "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>",
-        "link_url": "",
-        "button_label": "Button",
-        "color_scheme": "2",
-        "button_style": "btn btn--primary"
-      }
-    },
     "slideshow_aUNzPc": {
       "type": "slideshow",
       "blocks": {
@@ -373,6 +300,80 @@
         "accessibility_info": "",
         "prevent_animation": true
       }
+    },
+    "image_banner_9At4aL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Xifp3j": {
+          "type": "heading",
+          "settings": {
+            "heading": "Back to Black",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_ezhTmk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_BMiFiz": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xifp3j",
+        "text_ezhTmk",
+        "button_BMiFiz"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/03_banner_ollas_v2.png",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-start items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "3",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "featured_collection_BjKMUQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PRODUCTOS TITAN BLACK",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "grid",
+        "card_size": "medium",
+        "products_to_show": 8,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
     }
   },
   "order": [
@@ -381,8 +382,8 @@
     "rich_text_mBgfiK",
     "media_with_text_PjzmgU",
     "media_with_text_YBJzMj",
+    "slideshow_aUNzPc",
     "image_banner_9At4aL",
-    "featured_collection_BjKMUQ",
-    "slideshow_aUNzPc"
+    "featured_collection_BjKMUQ"
   ]
 }
