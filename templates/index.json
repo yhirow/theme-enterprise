@@ -71,10 +71,10 @@
         ".background {color: #0000;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/png-banner.jpg",
+        "image_desktop": "shopify:\/\/shop_images\/png-banner_b15fd9de-d274-44fc-b2b1-a771bc1abba4.jpg",
         "url": "",
         "height_mode": "fixed",
-        "fixed_height_desktop": 460,
+        "fixed_height_desktop": 400,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
