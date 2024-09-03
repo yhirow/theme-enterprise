@@ -98,7 +98,7 @@
           "type": "heading",
           "settings": {
             "heading": "DEL ESPACIO EXTERIOR A TU COCINA",
-            "heading_size": "h2",
+            "heading_size": "h4",
             "heading_h1": true
           }
         },
@@ -143,7 +143,7 @@
           "type": "heading",
           "settings": {
             "heading": "TODO TERRENO",
-            "heading_size": "h3",
+            "heading_size": "h4",
             "heading_h1": false
           }
         },
