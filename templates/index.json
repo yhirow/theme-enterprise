@@ -103,7 +103,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Fabricada con el titanio que se utiliza en naves espaciales y prótesis médicas<br\/>Diseñada bajo rigurosos estándares de calidad.<br\/><br\/><\/p>",
-            "enlarge_text": true
+            "enlarge_text": false
           }
         },
         "button_N6ch74": {
@@ -139,7 +139,7 @@
         "text_xQJLDb": {
           "type": "text",
           "settings": {
-            "text": "<p>Versatilidad inigualable.<br\/>Puedes utilizarla tanto en la estufa como<br\/>en el horno gracias a sus mangos de metal<br\/>que resisten temperaturas<br\/>de hasta 870 grados centígrados.<br\/>Además puede ser usada en estufas<br\/>convencionales,<br\/>eléctricas o de inducción.<\/p>",
+            "text": "<p>Versatilidad inigualable.<br\/>Puedes utilizarla tanto en la estufa como en el horno gracias a sus mangos de metal que resisten temperaturas de hasta 870 grados centígrados. Además puede ser usada en estufas convencionales, eléctricas o de inducción.<\/p>",
             "enlarge_text": true
           }
         }
