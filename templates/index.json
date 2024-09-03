@@ -488,7 +488,6 @@
       "blocks": {
         "heading_baLHL4": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
