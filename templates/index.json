@@ -67,8 +67,11 @@
     },
     "image_banner_dnkUJM": {
       "type": "image-banner",
+      "custom_css": [
+        ".background {color: #0000;}"
+      ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/bateria-sin-logo.png",
+        "image_desktop": "shopify:\/\/shop_images\/png-banner.jpg",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 460,
@@ -77,7 +80,7 @@
         "overlay_text_align": "text-center",
         "mob_center_text": false,
         "mobile_stacked": false,
-        "color_scheme": "white",
+        "color_scheme": "3",
         "full_width": true,
         "tint_color": "#000000",
         "tint_opacity": 0,
@@ -134,7 +137,7 @@
       "settings": {
         "text_align": "text-center",
         "mob_center_text": true,
-        "color_scheme": "1",
+        "color_scheme": "3",
         "full_width": true,
         "prevent_animation": false
       }
@@ -163,13 +166,13 @@
         "text_xQJLDb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TODO-TERRENO.png",
+        "image": "shopify:\/\/shop_images\/DSC_8597-02.png",
         "video_external": "",
         "video_description": "",
         "video_autoplay": true,
         "layout": "left",
         "text_align": "text-center",
-        "color_scheme": "2"
+        "color_scheme": "none"
       }
     },
     "media_with_text_YBJzMj": {
@@ -212,7 +215,7 @@
         "video_autoplay": false,
         "layout": "right",
         "text_align": "text-center",
-        "color_scheme": "1"
+        "color_scheme": "none"
       }
     },
     "slideshow_aUNzPc": {
@@ -245,7 +248,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
