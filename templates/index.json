@@ -96,7 +96,7 @@
           "settings": {
             "heading": "Del espacio exterior a tu cocina",
             "heading_size": "h2",
-            "heading_h1": false
+            "heading_h1": true
           }
         },
         "text_kYdjH7": {
@@ -172,7 +172,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Construida con titanio y diseñada para durar más de 200 años, o hasta 90,000 lavadas, Titan Black Essential permanecerá en tu cocina por generaciones<\/p>",
-            "enlarge_text": false
+            "enlarge_text": true
           }
         },
         "button_pyBdi7": {
