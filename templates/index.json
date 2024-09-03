@@ -128,7 +128,7 @@
       "settings": {
         "text_align": "text-center",
         "mob_center_text": true,
-        "color_scheme": "none",
+        "color_scheme": "2",
         "full_width": true,
         "prevent_animation": false
       }
@@ -156,12 +156,56 @@
         "text_align": "text-start",
         "color_scheme": "none"
       }
+    },
+    "media_with_text_YBJzMj": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_kYLjiY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Legado de sabores que perdura",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_aEhgKD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Construida con titanio y diseñada para durar más de 200 años, o hasta 90,000 lavadas, Titan Black Essential permanecerá en tu cocina por generaciones<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "button_pyBdi7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kYLjiY",
+        "text_aEhgKD",
+        "button_pyBdi7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/png_sarten.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
     }
   },
   "order": [
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
-    "media_with_text_PjzmgU"
+    "media_with_text_PjzmgU",
+    "media_with_text_YBJzMj"
   ]
 }
