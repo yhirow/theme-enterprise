@@ -220,7 +220,7 @@
           "type": "slide",
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/03_banner_ollas_v2.png",
-            "overlay_position": "justify-center items-center",
+            "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
             "subheading": "Subheading",
