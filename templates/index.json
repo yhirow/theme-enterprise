@@ -131,7 +131,7 @@
       "settings": {
         "text_align": "text-center",
         "mob_center_text": true,
-        "color_scheme": "2",
+        "color_scheme": "1",
         "full_width": true,
         "prevent_animation": false
       }
