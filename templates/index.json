@@ -75,7 +75,7 @@
         "image_mobile": "shopify:\/\/shop_images\/1x1-fondo-gris.png",
         "url": "",
         "height_mode": "fixed",
-        "fixed_height_desktop": 440,
+        "fixed_height_desktop": 480,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
@@ -487,7 +487,7 @@
         "hover_zoom": "large",
         "enable_video_looping": false,
         "color_scheme": "none",
-        "border_color": "transparent",
+        "border_color": "rgba(0,0,0,0)",
         "bg_color": "#f4f4f4"
       }
     }
