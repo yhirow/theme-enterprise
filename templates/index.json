@@ -30,10 +30,10 @@
         "button_68jEg8": {
           "type": "button",
           "settings": {
-            "button_1_label": "Optional button",
+            "button_1_label": "Comprar Ahora",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
+            "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary"
           }

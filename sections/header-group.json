@@ -28,7 +28,7 @@
         "repeat_links": true,
         "menu_featured_link": "Sale",
         "quicklinks_menu": "",
-        "bg_color": "#2a2b2a",
+        "bg_color": "#000000",
         "text_color": "#ffffff",
         "accent_color": "#777777"
       }
