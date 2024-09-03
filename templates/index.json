@@ -51,7 +51,7 @@
         "image_desktop": "shopify:\/\/shop_images\/nueva-web.png",
         "image_mobile": "shopify:\/\/shop_images\/nueva.png",
         "url": "",
-        "height_mode": "auto",
+        "height_mode": "fixed",
         "fixed_height_desktop": 600,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-start items-center",
