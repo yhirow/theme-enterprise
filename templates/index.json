@@ -32,7 +32,7 @@
           "settings": {
             "button_1_label": "Comprar Ahora",
             "button_1_link": "",
-            "button_1_style": "btn btn--primary",
+            "button_1_style": "btn btn--secondary",
             "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary"
@@ -228,6 +228,57 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
+    },
+    "image_banner_9At4aL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Xifp3j": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_ezhTmk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_BMiFiz": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xifp3j",
+        "text_ezhTmk",
+        "button_BMiFiz"
+      ],
+      "settings": {
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
     }
   },
   "order": [
@@ -236,6 +287,7 @@
     "rich_text_mBgfiK",
     "media_with_text_PjzmgU",
     "media_with_text_YBJzMj",
-    "featured_collection_BjKMUQ"
+    "featured_collection_BjKMUQ",
+    "image_banner_9At4aL"
   ]
 }
