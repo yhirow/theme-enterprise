@@ -25,7 +25,7 @@
         "minimise_search_mobile": true,
         "minimise_search_desktop": true,
         "menu": "main-menu",
-        "repeat_links": true,
+        "repeat_links": false,
         "menu_featured_link": "Sale",
         "quicklinks_menu": "",
         "bg_color": "#000000",
