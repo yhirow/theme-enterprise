@@ -71,10 +71,10 @@
         ".background {color: #0000;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/png-banner_b15fd9de-d274-44fc-b2b1-a771bc1abba4.jpg",
+        "image_desktop": "shopify:\/\/shop_images\/png-banner.jpg",
         "url": "",
         "height_mode": "fixed",
-        "fixed_height_desktop": 430,
+        "fixed_height_desktop": 460,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
@@ -108,7 +108,7 @@
         "text_kYdjH7": {
           "type": "text",
           "settings": {
-            "text": "<p>Forjada con el titanio empleado en exploración espacial. Ahora en tu cocina.<br\/><br\/><\/p>",
+            "text": "<p>Imagina cocinar con la misma tecnología que impulsa la exploración espacial. Nuestra sartén está forjada con titanio de grado aeroespacial, el mismo material utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre. Este titanio no solo es sinónimo de resistencia extrema, sino también de durabilidad inigualable.<br\/><\/p>",
             "enlarge_text": false
           }
         },
