@@ -350,6 +350,62 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
+    },
+    "image_banner_TEKJfP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_baLHL4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_AJtY6e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_Gjn7Pa": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_baLHL4",
+        "text_AJtY6e",
+        "button_Gjn7Pa"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-TV.png",
+        "image_mobile": "shopify:\/\/shop_images\/Copia_de_MG_BENEFICIOS_2.png",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
     }
   },
   "order": [
@@ -360,6 +416,7 @@
     "media_with_text_YBJzMj",
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
-    "featured_collection_BjKMUQ"
+    "featured_collection_BjKMUQ",
+    "image_banner_TEKJfP"
   ]
 }
