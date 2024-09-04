@@ -536,7 +536,7 @@
         "image_mobile": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1_3687e2d4-465c-44a4-861d-a1a1c07c654d.png",
         "url": "",
         "height_mode": "fixed",
-        "fixed_height_desktop": 600,
+        "fixed_height_desktop": 720,
         "fixed_height_mobile": 350,
         "overlay_position": "justify-start items-center",
         "overlay_text_align": "text-start",
