@@ -574,6 +574,7 @@
       "blocks": {
         "heading_HL7L9g": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -582,6 +583,7 @@
         },
         "text_6UxXmq": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "enlarge_text": true
@@ -589,6 +591,7 @@
         },
         "button_cryFKN": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
