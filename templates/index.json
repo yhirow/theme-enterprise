@@ -120,7 +120,7 @@
         "color_scheme": "3",
         "full_width": true,
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 0,
         "prevent_animation": false
       }
     },
