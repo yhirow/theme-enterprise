@@ -75,70 +75,6 @@
         "prevent_animation": false
       }
     },
-    "image_banner_QnVDhe": {
-      "type": "image-banner",
-      "blocks": {
-        "subheading_QMK9dn": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_VzPhj6": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "TITAN BLACK essential",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_cByAYr": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "button_Jd89jD": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Comprar Ahora",
-            "button_1_link": "shopify:\/\/products\/titan-black",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_QMK9dn",
-        "heading_VzPhj6",
-        "text_cByAYr",
-        "button_Jd89jD"
-      ],
-      "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-web.png",
-        "image_mobile": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1_3687e2d4-465c-44a4-861d-a1a1c07c654d.png",
-        "url": "",
-        "height_mode": "fixed",
-        "fixed_height_desktop": 600,
-        "fixed_height_mobile": 440,
-        "overlay_position": "justify-start items-end",
-        "overlay_text_align": "text-start",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "white",
-        "full_width": true,
-        "tint_color": "#000000",
-        "tint_opacity": 0,
-        "prevent_animation": false
-      }
-    },
     "image_banner_dnkUJM": {
       "type": "image-banner",
       "custom_css": [
@@ -557,6 +493,70 @@
         "button_style": "btn btn--primary"
       }
     },
+    "image_banner_QnVDhe": {
+      "type": "image-banner",
+      "blocks": {
+        "subheading_QMK9dn": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_VzPhj6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "TITAN BLACK essential",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_cByAYr": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button_Jd89jD": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Comprar Ahora",
+            "button_1_link": "shopify:\/\/products\/titan-black",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_QMK9dn",
+        "heading_VzPhj6",
+        "text_cByAYr",
+        "button_Jd89jD"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-web.png",
+        "image_mobile": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1_3687e2d4-465c-44a4-861d-a1a1c07c654d.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 440,
+        "overlay_position": "justify-start items-end",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
     "featured_product_zyAGmb": {
       "type": "featured-product",
       "blocks": {
@@ -644,7 +644,6 @@
   },
   "order": [
     "image_banner_z4hG9a",
-    "image_banner_QnVDhe",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "media_with_text_PjzmgU",
@@ -652,6 +651,7 @@
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "featured_collection_BjKMUQ",
+    "image_banner_QnVDhe",
     "featured_product_zyAGmb"
   ]
 }
