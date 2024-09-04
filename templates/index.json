@@ -498,9 +498,8 @@
       "blocks": {
         "subheading_UAeQmx": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "heading_NAYVda": {
