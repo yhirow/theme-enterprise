@@ -14,6 +14,7 @@
       "blocks": {
         "heading_ACC7Mp": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "TITAN BLACK essential",
             "heading_size": "h1",
@@ -22,6 +23,7 @@
         },
         "text_wMcCxm": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.<\/p>",
             "enlarge_text": true
