@@ -572,7 +572,6 @@
       "blocks": {
         "heading_HL7L9g": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -581,7 +580,6 @@
         },
         "text_6UxXmq": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "enlarge_text": true
@@ -589,7 +587,6 @@
         },
         "button_cryFKN": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -605,6 +602,7 @@
         "text_6UxXmq",
         "button_cryFKN"
       ],
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-web.png",
         "image_mobile": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1_3687e2d4-465c-44a4-861d-a1a1c07c654d.png",
