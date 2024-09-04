@@ -80,7 +80,7 @@
         ".background {color: #0000;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/png-banner.jpg",
+        "image_desktop": "shopify:\/\/shop_images\/png-banner-wen-sin-fondo.png",
         "image_mobile": "shopify:\/\/shop_images\/1x1-fondo-gris.png",
         "url": "",
         "height_mode": "fixed",
