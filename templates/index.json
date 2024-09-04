@@ -493,10 +493,17 @@
         "button_style": "btn btn--primary"
       }
     },
-    "image_banner_k4iMHW": {
+    "image_banner_gXrpEb": {
       "type": "image-banner",
       "blocks": {
-        "heading_ByDFYC": {
+        "subheading_UAeQmx": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_NAYVda": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -505,7 +512,7 @@
             "heading_h1": false
           }
         },
-        "text_BBJ9rC": {
+        "text_RE47Pe": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -513,7 +520,7 @@
             "enlarge_text": true
           }
         },
-        "button_jLnGAY": {
+        "button_jVUNq6": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -527,18 +534,19 @@
         }
       },
       "block_order": [
-        "heading_ByDFYC",
-        "text_BBJ9rC",
-        "button_jLnGAY"
+        "subheading_UAeQmx",
+        "heading_NAYVda",
+        "text_RE47Pe",
+        "button_jVUNq6"
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/MG_BENEFICIOS-web.png",
         "image_mobile": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1_3687e2d4-465c-44a4-861d-a1a1c07c654d.png",
         "url": "",
         "height_mode": "auto",
-        "fixed_height_desktop": 720,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-start items-center",
+        "fixed_height_desktop": 530,
+        "fixed_height_mobile": 440,
+        "overlay_position": "justify-start items-end",
         "overlay_text_align": "text-start",
         "mob_center_text": false,
         "mobile_stacked": false,
@@ -643,7 +651,7 @@
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "featured_collection_BjKMUQ",
-    "image_banner_k4iMHW",
+    "image_banner_gXrpEb",
     "featured_product_zyAGmb"
   ]
 }
