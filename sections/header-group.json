@@ -39,11 +39,12 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<p><strong>Welcome to our store<\/strong> <a href=\"#\" title=\"#\">Learn more<\/a><\/p>"
+            "text": "<p><strong>Envío gratis a partir de $799.00<\/strong><\/p>"
           }
         },
         "announcement-2": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>New collections added!<\/strong> <a href=\"#\" title=\"#\">Learn more<\/a><\/p>"
           }
