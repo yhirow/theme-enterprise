@@ -14,7 +14,6 @@
       "blocks": {
         "subheading_tVx4mL": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -58,7 +57,7 @@
         "primary-button {background-color: #fff;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/banner-web-princiapl.png",
+        "image_desktop": "shopify:\/\/shop_images\/nueva-web.png",
         "image_mobile": "shopify:\/\/shop_images\/nueva.png",
         "url": "",
         "height_mode": "fixed",
@@ -71,7 +70,7 @@
         "color_scheme": "3",
         "full_width": true,
         "tint_color": "#000000",
-        "tint_opacity": 0,
+        "tint_opacity": 40,
         "prevent_animation": false
       }
     },
@@ -91,7 +90,7 @@
         "overlay_text_align": "text-center",
         "mob_center_text": false,
         "mobile_stacked": false,
-        "color_scheme": "3",
+        "color_scheme": "white",
         "full_width": true,
         "tint_color": "#000000",
         "tint_opacity": 0,
@@ -192,7 +191,7 @@
         "heading_kYLjiY": {
           "type": "heading",
           "settings": {
-            "heading": "LEGADO DE SABORES",
+            "heading": "UN LEGADO QUE TRASCIENDE GENERACIONES",
             "heading_size": "h5",
             "heading_h1": false
           }
@@ -200,7 +199,7 @@
         "text_aEhgKD": {
           "type": "text",
           "settings": {
-            "text": "<p>Construida con titanio y diseñada para durar más de 200 años, o hasta 90,000 lavadas, Titan Black Essential permanecerá en tu cocina por generaciones<\/p>",
+            "text": "<p>Forjada con titanio y diseñada para resistir el paso del tiempo, Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, este set permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.<\/p>",
             "enlarge_text": false
           }
         },
