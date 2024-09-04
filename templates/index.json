@@ -59,7 +59,7 @@
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/titan-web-banner.png",
-        "image_mobile": "shopify:\/\/shop_images\/nueva.png",
+        "image_mobile": "shopify:\/\/shop_images\/mobile.png",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 600,
