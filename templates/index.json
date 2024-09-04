@@ -167,7 +167,7 @@
         "text_xQJLDb": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Una versatilidad insuperable<\/strong><\/em><\/p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa o en el horno, gracias a sus mangos de metal capaces de soportar temperaturas extremas de hasta 870 grados centígrados. <\/p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.<\/p>",
+            "text": "<p><strong>Una versatilidad insuperable<\/strong><\/p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa o en el horno, gracias a sus mangos de metal capaces de soportar temperaturas extremas de hasta 870 grados centígrados. <\/p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.<\/p>",
             "enlarge_text": true
           }
         }
@@ -200,8 +200,8 @@
         "text_aEhgKD": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Forjada con titanio y diseñada para resistir el paso del tiempo. <\/strong><\/em><\/p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. <\/p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, este set permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.<\/p>",
-            "enlarge_text": false
+            "text": "<p><strong>Forjada con titanio y diseñada para resistir el paso del tiempo. <\/strong><\/p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. <\/p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, este set permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.<\/p>",
+            "enlarge_text": true
           }
         },
         "button_pyBdi7": {
