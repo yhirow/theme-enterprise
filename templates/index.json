@@ -500,7 +500,7 @@
         "subheading_QMK9dn": {
           "type": "subheading",
           "settings": {
-            "text": "RESISTE HASTA 870 GRADOS CENTIGRADOS, LO QUE LA HACE APTA PARA CUALQUIER ESTUF, Y EL HORNO"
+            "text": "RESISTE HASTA 870 GRADOS CENTIGRADOS, LO QUE LA HACE APTA PARA CUALQUIER ESTUFA, Y EL HORNO"
           }
         },
         "heading_VzPhj6": {
@@ -547,7 +547,7 @@
         "fixed_height_desktop": 710,
         "fixed_height_mobile": 410,
         "overlay_position": "justify-center items-end",
-        "overlay_text_align": "text-start",
+        "overlay_text_align": "text-center",
         "mob_center_text": true,
         "mobile_stacked": false,
         "color_scheme": "white",
