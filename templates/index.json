@@ -58,8 +58,8 @@
         "primary-button {background-color: #fff;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/titan-web-banner.png",
-        "image_mobile": "shopify:\/\/shop_images\/mobile.png",
+        "image_desktop": "shopify:\/\/shop_images\/banner-final-web.png",
+        "image_mobile": "shopify:\/\/shop_images\/1x1-banner-final.png",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 600,
