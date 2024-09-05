@@ -235,7 +235,7 @@
         "slide_kigTng": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/web-back-to-black1.png",
+            "image_desktop": "shopify:\/\/shop_images\/back_3.png",
             "image_mobile": "shopify:\/\/shop_images\/back.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -267,7 +267,7 @@
         "slide_HLJ4D4": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/inteligencia_1.png",
+            "image_desktop": "shopify:\/\/shop_images\/inteligencia_3.png",
             "image_mobile": "shopify:\/\/shop_images\/inteligencia.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -299,7 +299,7 @@
         "slide_pWUWNH": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/saborea_3.png",
+            "image_desktop": "shopify:\/\/shop_images\/web-back-to-black1_2.png",
             "image_mobile": "shopify:\/\/shop_images\/saborea.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -331,7 +331,7 @@
         "slide_geepxd": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/terreno_2.png",
+            "image_desktop": "shopify:\/\/shop_images\/terreno_4.png",
             "image_mobile": "shopify:\/\/shop_images\/terreno.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -363,7 +363,7 @@
         "slide_6TnPt3": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/maxima_2.png",
+            "image_desktop": "shopify:\/\/shop_images\/maxima_4.png",
             "image_mobile": "shopify:\/\/shop_images\/maxima.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
