@@ -158,7 +158,7 @@
         "sticky_atc_panel": true,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
-        "media_layout": "slider",
+        "media_layout": "stacked",
         "media_size": "default",
         "media_ratio": "1",
         "media_crop": "none",
