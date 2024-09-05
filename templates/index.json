@@ -480,7 +480,7 @@
         "heading_align": "text-center",
         "show_view_all": true,
         "collection": "titan-black",
-        "layout": "grid",
+        "layout": "carousel",
         "card_size": "medium",
         "products_to_show": 8,
         "show_promo_info": false,
