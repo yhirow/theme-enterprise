@@ -224,7 +224,7 @@
     }
   },
   "current": {
-    "bg_color": "#ffffff",
+    "bg_color": "#eaeaea",
     "heading_color": "#2a2b2a",
     "text_color": "#2a2b2a",
     "link_color": "#2a2b2a",
@@ -284,7 +284,7 @@
     "card_show_subtitle": false,
     "card_show_rating": true,
     "card_show_inventory": true,
-    "enable_quick_add": false,
+    "enable_quick_add": true,
     "card_atc_mobile": "text_button_bottom",
     "card_atc_desktop": "text_button_bottom",
     "card_contain": false,
