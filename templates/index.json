@@ -606,6 +606,7 @@
         },
         "divider_exR4Ki": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "spacing": "mt-8 mb-8"
