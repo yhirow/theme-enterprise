@@ -49,6 +49,11 @@
             "size_chart_page": ""
           }
         },
+        "description_9LTKfi": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "divider-1": {
           "type": "divider",
           "settings": {
@@ -66,6 +71,7 @@
         },
         "message-1": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "icon": "clock",
             "title": "<p><strong>Popular right now<br\/><\/strong>Lots of people have looked at this recently<\/p>",
@@ -78,6 +84,7 @@
         },
         "message-2": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "icon": "price_tag",
             "title": "<p><strong>Selling fast!<br\/><\/strong>Grab yours while you can<\/p>",
@@ -118,6 +125,7 @@
         },
         "message-3": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "title": "<p>Add a stand out message for your customers<\/p>",
@@ -135,6 +143,7 @@
         "price",
         "divider-0",
         "variant-picker",
+        "description_9LTKfi",
         "divider-1",
         "buy-buttons",
         "message-1",
