@@ -546,14 +546,14 @@
         "height_mode": "screen",
         "fixed_height_desktop": 750,
         "fixed_height_mobile": 410,
-        "overlay_position": "justify-center items-end",
+        "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
         "mob_center_text": true,
         "mobile_stacked": false,
         "color_scheme": "white",
         "full_width": true,
         "tint_color": "#000000",
-        "tint_opacity": 0,
+        "tint_opacity": 50,
         "prevent_animation": false
       }
     },
