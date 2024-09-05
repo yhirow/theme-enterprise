@@ -481,7 +481,7 @@
         "show_view_all": true,
         "collection": "titan-black",
         "layout": "grid",
-        "card_size": "large",
+        "card_size": "small",
         "products_to_show": 8,
         "show_promo_info": false,
         "image_ratio": "fill",
