@@ -543,7 +543,7 @@
         "image_desktop": "shopify:\/\/shop_images\/life-2.png",
         "image_mobile": "shopify:\/\/shop_images\/lifestyle_3.png",
         "url": "",
-        "height_mode": "fixed",
+        "height_mode": "auto",
         "fixed_height_desktop": 710,
         "fixed_height_mobile": 410,
         "overlay_position": "justify-center items-end",
