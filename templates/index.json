@@ -235,8 +235,8 @@
         "slide_kigTng": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/back_3.png",
-            "image_mobile": "shopify:\/\/shop_images\/back.png",
+            "image_desktop": "shopify:\/\/shop_images\/back_d6d7530a-7b02-4dd6-9946-e32c830062aa.png",
+            "image_mobile": "shopify:\/\/shop_images\/back_c7bcb668-e618-4f73-8170-e77d4861cda2.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
