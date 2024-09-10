@@ -44,9 +44,8 @@
         },
         "announcement-2": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "<p><strong>New collections added!<\/strong> <a href=\"#\" title=\"#\">Learn more<\/a><\/p>"
+            "text": "<p><strong>3 meses sin intereses<\/strong> con tarjeta de crédito<\/p>"
           }
         }
       },
