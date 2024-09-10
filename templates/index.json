@@ -153,6 +153,40 @@
         "prevent_animation": false
       }
     },
+    "video_Jz7mGL": {
+      "type": "video",
+      "blocks": {
+        "heading_HRFbYM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_VCnKNJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add text to a video to showcase a detail of your brand or product line.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_HRFbYM",
+        "text_VCnKNJ"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/WhatsApp Video 2024-09-09 at 18.01.17.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "poster_image": "shopify:\/\/shop_images\/Screenshot_2024-09-10_at_9.45.22_a.m..png",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
+      }
+    },
     "media_with_text_PjzmgU": {
       "type": "media-with-text",
       "blocks": {
@@ -646,6 +680,7 @@
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
+    "video_Jz7mGL",
     "media_with_text_PjzmgU",
     "media_with_text_YBJzMj",
     "slideshow_aUNzPc",
