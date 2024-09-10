@@ -54,6 +54,9 @@
         "announcement-1",
         "announcement-2"
       ],
+      "custom_css": [
+        ".announcement__text {justify-content: center;}"
+      ],
       "settings": {
         "link1": "",
         "link1_label": "",
@@ -64,7 +67,7 @@
         "bg_color": "#e76a36",
         "text_color": "#ffffff",
         "text_type_scale": "small",
-        "read_time": 7
+        "read_time": 5
       }
     },
     "promo-strip": {
