@@ -159,7 +159,7 @@
         "heading_HRFbYM": {
           "type": "heading",
           "settings": {
-            "heading": "Video",
+            "heading": "",
             "heading_size": "h1",
             "heading_h1": false
           }
@@ -167,7 +167,7 @@
         "text_VCnKNJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Add text to a video to showcase a detail of your brand or product line.<\/p>",
+            "text": "<p>Bienvenidos a la era del titanio.<\/p>",
             "enlarge_text": true
           }
         }
