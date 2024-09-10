@@ -519,12 +519,12 @@
         "card_size": "large",
         "products_to_show": 8,
         "show_promo_info": true,
-        "image": "shopify:\/\/shop_images\/recta-20.png",
+        "image": "shopify:\/\/shop_images\/1x1-banner-final.png",
         "image_ratio": "fill",
-        "promo_title": "Batería Titan Black Essential 20 piezas",
-        "content": "<p>La bateria de cocina con antiadherente de titanio, diseñada para soportar hasta 90,000 lavadas<\/p>",
-        "link_url": "shopify:\/\/products\/titan-black",
-        "button_label": "Promoción Tiempo Limitado",
+        "promo_title": "",
+        "content": "",
+        "link_url": "",
+        "button_label": "",
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
