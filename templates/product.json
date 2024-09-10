@@ -271,13 +271,24 @@
             "hotspot_x": 60,
             "hotspot_y": 70
           }
+        },
+        "feature_LX8BEi": {
+          "type": "feature",
+          "settings": {
+            "heading": "10 Piezas de Regalo",
+            "text": "<p>Set de utensillos de cocina Titan Black Essential<\/p>",
+            "content_align": "text-end",
+            "hotspot_x": 90,
+            "hotspot_y": 70
+          }
         }
       },
       "block_order": [
         "product-features-feature-0",
         "product-features-feature-1",
         "product-features-feature-2",
-        "product-features-feature-3"
+        "product-features-feature-3",
+        "feature_LX8BEi"
       ],
       "settings": {
         "product": "titan-black",
