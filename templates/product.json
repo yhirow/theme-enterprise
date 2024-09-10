@@ -239,27 +239,27 @@
             "text": "<p>Permite usar la batería en la estufa o en el horno<\/p>",
             "content_align": "text-start",
             "hotspot_x": 20,
-            "hotspot_y": 50
+            "hotspot_y": 53
           }
         },
         "product-features-feature-1": {
           "type": "feature",
           "settings": {
-            "heading": "Feature name",
-            "text": "<p>Add some text describing the product feature.<\/p>",
-            "content_align": "text-start",
-            "hotspot_x": 60,
-            "hotspot_y": 29
+            "heading": "Antiadherente de Titanio",
+            "text": "<p>Máxima resistencia y poder antiadherente<\/p>",
+            "content_align": "text-center",
+            "hotspot_x": 35,
+            "hotspot_y": 80
           }
         },
         "product-features-feature-2": {
           "type": "feature",
           "settings": {
-            "heading": "Feature name",
-            "text": "<p>Add some text describing the product feature.<\/p>",
+            "heading": "Inteligencia Culinaria",
+            "text": "<p>La flama cambiar de color cuando la sartén esta caliente<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 73,
-            "hotspot_y": 54
+            "hotspot_x": 38,
+            "hotspot_y": 65
           }
         },
         "product-features-feature-3": {
