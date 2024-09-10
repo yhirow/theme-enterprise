@@ -307,57 +307,6 @@
         "button_style": "btn btn--primary"
       }
     },
-    "image-banner": {
-      "type": "image-banner",
-      "blocks": {
-        "image-banner-heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "image-banner-text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "image-banner-button": {
-          "type": "button",
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "image-banner-heading",
-        "image-banner-text",
-        "image-banner-button"
-      ],
-      "settings": {
-        "url": "",
-        "height_mode": "fixed",
-        "fixed_height_desktop": 640,
-        "fixed_height_mobile": 480,
-        "overlay_position": "justify-center items-center",
-        "overlay_text_align": "text-center",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "white",
-        "full_width": false,
-        "tint_color": "#000000",
-        "tint_opacity": 40,
-        "prevent_animation": false
-      }
-    },
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -367,13 +316,111 @@
         "card_size": "small",
         "products_to_show": 8
       }
+    },
+    "media_grid_tMXWhi": {
+      "type": "media-grid",
+      "blocks": {
+        "media_CDrqCd": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copia_de_MG_BENEFICIOS_2.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_qcPgkb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copia_de_SARTENES_CONJUNTO_v1_2.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_4Eaepz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copia_de_CACEROLAS_v1_2.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_EctqeC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_CDrqCd",
+        "media_qcPgkb",
+        "media_4Eaepz",
+        "media_EctqeC"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
     }
   },
   "order": [
     "main",
     "details",
     "product-features",
-    "image-banner",
-    "recommendations"
+    "recommendations",
+    "media_grid_tMXWhi"
   ]
 }
