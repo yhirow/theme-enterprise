@@ -517,7 +517,7 @@
         "layout": "grid",
         "card_size": "large",
         "products_to_show": 8,
-        "show_promo_info": false,
+        "show_promo_info": true,
         "image": "shopify:\/\/shop_images\/1x1-banner-final.png",
         "image_ratio": "fill",
         "promo_title": "A headline to grab attention",
@@ -573,6 +573,7 @@
         "text_cByAYr",
         "button_Jd89jD"
       ],
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/lifestyle_3.png",
         "image_mobile": "shopify:\/\/shop_images\/lifestyle_3.png",
@@ -664,6 +665,7 @@
         "divider_exR4Ki",
         "view_more_button_weqRHw"
       ],
+      "disabled": true,
       "settings": {
         "product": "titan-black",
         "media_ratio": "natural",
