@@ -143,7 +143,7 @@
         "button_N6ch74"
       ],
       "custom_css": [
-
+        ".section--padded {margin-top: 50%; \/* Reducir el margen superior al 50% de su valor actual *\/}"
       ],
       "settings": {
         "text_align": "text-center",
