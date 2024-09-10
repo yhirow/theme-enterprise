@@ -352,7 +352,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_qcPgkb": {
@@ -371,7 +371,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_4Eaepz": {
@@ -390,12 +390,13 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_PzNzgK": {
           "type": "media",
           "settings": {
+            "image": "shopify:\/\/shop_images\/UTENSILIOS_1.png",
             "link_url": "",
             "columns": 1,
             "rows": 1,
@@ -408,7 +409,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_EctqeC": {
@@ -427,7 +428,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
