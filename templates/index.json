@@ -520,7 +520,7 @@
         "products_to_show": 8,
         "show_promo_info": true,
         "image": "shopify:\/\/shop_images\/1x1-banner-final.png",
-        "image_ratio": "fill",
+        "image_ratio": "natural",
         "promo_title": "",
         "content": "",
         "link_url": "",
