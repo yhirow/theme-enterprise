@@ -19,7 +19,8 @@
   <div class="container">
 {%- endunless -%}
 
-<div class="section{% unless bg_color == false %} section--padded{% if section.settings.full_width %} section--full-width{% endif %}{% endunless %}{% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}{% if bg_color == false %} color-scheme--transparent{% endif %}" id="{{ section.id }}"{% if settings.animations_enabled != "disabled" and section.settings.prevent_animation == false %} data-cc-animate{% endif %}>
+<div class="section{% unless bg_color == false %} section--padded{% if section.settings.full_width %} section--full-width{% endif %}{% endunless %}{% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}{% if bg_color == false %} color-scheme--transparent{% endif %}" id="{{ section.id }}"{% if settings.animations_enabled != "disabled" and section.settings.prevent_animation == false %} data-cc-animate{% endif %}style="margin-top: calc(50% * var(--original-margin, 40px));"
+>
   <div class="container {{ section.settings.text_align }}{% if section.settings.mob_center_text %} md-down:text-center{% endif %}">
     {%- for block in section.blocks -%}
       {%- case block.type -%}
