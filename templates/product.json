@@ -182,13 +182,21 @@
       "blocks": {
         "highlight-text": {
           "type": "highlight-text",
+          "disabled": true,
           "settings": {
             "title": "Highlight title",
             "text": "<p>Text to highlight a key feature of your product<\/p>"
           }
         },
+        "richtext_bntz74": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Share information about this product with your customers.<\/p>"
+          }
+        },
         "tabs": {
           "type": "tabs",
+          "disabled": true,
           "settings": {
             "style": "tabs",
             "show_description": true,
@@ -212,10 +220,10 @@
         "payment-methods": {
           "type": "payment-methods",
           "settings": {
-            "title": "Payment & Security",
-            "title1": "Payment methods",
+            "title": "Paga con Confianza",
+            "title1": "",
             "show_payment_icons": true,
-            "text1": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.<\/p>",
+            "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.<\/p>",
             "title2": "",
             "text2": ""
           }
@@ -223,6 +231,7 @@
       },
       "block_order": [
         "highlight-text",
+        "richtext_bntz74",
         "tabs",
         "payment-methods"
       ],
