@@ -291,7 +291,7 @@
         "description": "<p>Use this section to highlight specific product features to your customers.<\/p>",
         "button_label": "",
         "button_link": "",
-        "hotspot_color": "#070707",
+        "hotspot_color": "#ff9f1c",
         "color_scheme": "none",
         "button_style": "btn btn--primary"
       }
