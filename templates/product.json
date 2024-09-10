@@ -38,6 +38,12 @@
             "spacing": "mt-8 mb-8"
           }
         },
+        "richtext_dgAHWy": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p><strong>Bienvenido a la era del Titanio<\/strong><\/p><p><br\/><strong>TITAN BLACK<\/strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.<\/p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.<\/p>"
+          }
+        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -51,6 +57,7 @@
         },
         "description_9LTKfi": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -142,6 +149,7 @@
         "title",
         "price",
         "divider-0",
+        "richtext_dgAHWy",
         "variant-picker",
         "description_9LTKfi",
         "divider-1",
@@ -196,7 +204,6 @@
         },
         "tabs": {
           "type": "tabs",
-          "disabled": true,
           "settings": {
             "style": "tabs",
             "show_description": true,
