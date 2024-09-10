@@ -216,7 +216,7 @@
         "video_description": "",
         "video_autoplay": true,
         "layout": "right",
-        "text_align": "text-center",
+        "text_align": "text-end",
         "color_scheme": "none"
       }
     },
@@ -259,7 +259,7 @@
         "video_description": "",
         "video_autoplay": false,
         "layout": "left",
-        "text_align": "text-center",
+        "text_align": "text-start",
         "color_scheme": "none"
       }
     },
