@@ -450,6 +450,27 @@
         "fixed_height_mobile": 300,
         "color_scheme": "white"
       }
+    },
+    "featured_collection_BEJAnP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Productos TITAN BLACK ESSENTIAL",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_promo_info": true,
+        "image": "shopify:\/\/shop_images\/1x1-banner-final.png",
+        "image_ratio": "fill",
+        "promo_title": "",
+        "content": "",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
     }
   },
   "order": [
@@ -457,6 +478,7 @@
     "details",
     "product-features",
     "recommendations",
-    "media_grid_tMXWhi"
+    "media_grid_tMXWhi",
+    "featured_collection_BEJAnP"
   ]
 }
