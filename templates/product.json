@@ -235,11 +235,11 @@
         "product-features-feature-0": {
           "type": "feature",
           "settings": {
-            "heading": "Feature name",
-            "text": "<p>Add some text describing the product feature.<\/p>",
+            "heading": "Mangos de Acero Inoxidable",
+            "text": "<p>Permite usar la batería en la estufa o en el horno<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 28,
-            "hotspot_y": 38
+            "hotspot_x": 20,
+            "hotspot_y": 50
           }
         },
         "product-features-feature-1": {
@@ -280,7 +280,7 @@
         "product-features-feature-3"
       ],
       "settings": {
-        "product": "",
+        "product": "titan-black",
         "show_content": true,
         "layout": "text_first",
         "text_align": "text-center",
