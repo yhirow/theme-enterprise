@@ -22,7 +22,7 @@
         "logo_width": 60,
         "logo_h1": true,
         "enable_search": true,
-        "minimise_search_mobile": false,
+        "minimise_search_mobile": true,
         "minimise_search_desktop": false,
         "menu": "main-menu",
         "repeat_links": false,
