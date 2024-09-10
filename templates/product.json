@@ -307,117 +307,6 @@
         "button_style": "btn btn--primary"
       }
     },
-    "product-comparison-grid": {
-      "type": "product-comparison-grid",
-      "blocks": {
-        "comparison-product-1": {
-          "type": "product",
-          "settings": {
-            "show_image": true,
-            "show_title": true,
-            "show_button": true
-          }
-        },
-        "comparison-vendor-2": {
-          "type": "vendor",
-          "settings": {
-          }
-        },
-        "comparison-price-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "comparison-description-4": {
-          "type": "description",
-          "settings": {
-            "truncate_description": false,
-            "words_to_show": 20
-          }
-        }
-      },
-      "block_order": [
-        "comparison-product-1",
-        "comparison-vendor-2",
-        "comparison-price-3",
-        "comparison-description-4"
-      ],
-      "settings": {
-        "heading": "Product comparison grid",
-        "text": "<p>Add content here to explain a bit about the range of products on offer and which ones may be most suitable for your customers.<\/p>",
-        "heading_align": "text-center",
-        "view_more_label": "View more",
-        "view_more_link": "",
-        "product_list": [
-
-        ],
-        "empty_field_text": "-",
-        "image_ratio": "shortest",
-        "image_crop": "center",
-        "num_rows": 0,
-        "color_scheme": "none",
-        "highlight_row": false
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-list-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-list-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-list-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-list-collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-list-collection-5": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-list-collection-6": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-list-collection-1",
-        "collection-list-collection-2",
-        "collection-list-collection-3",
-        "collection-list-collection-4",
-        "collection-list-collection-5",
-        "collection-list-collection-6"
-      ],
-      "settings": {
-        "title": "Our Collections",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "card_size": "medium",
-        "use_product_image": false,
-        "circle_image": true
-      }
-    },
     "image-banner": {
       "type": "image-banner",
       "blocks": {
@@ -484,8 +373,6 @@
     "main",
     "details",
     "product-features",
-    "product-comparison-grid",
-    "collection-list",
     "image-banner",
     "recommendations"
   ]
