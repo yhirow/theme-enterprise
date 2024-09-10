@@ -170,7 +170,7 @@
         "thumb_ratio": "1",
         "thumb_crop": "none",
         "media_arrows": "never",
-        "show_slide_count": false,
+        "show_slide_count": true,
         "border_color": "#eeeeee",
         "bg_color": "#f4f4f4",
         "enable_media_grouping": false,
