@@ -377,12 +377,30 @@
             "tint_opacity": 25
           }
         },
+        "media_PzNzgK": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
         "media_EctqeC": {
           "type": "media",
           "settings": {
             "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
             "link_url": "",
-            "columns": 2,
+            "columns": 1,
             "rows": 1,
             "subheading": "",
             "title": "",
@@ -401,6 +419,7 @@
         "media_CDrqCd",
         "media_qcPgkb",
         "media_4Eaepz",
+        "media_PzNzgK",
         "media_EctqeC"
       ],
       "settings": {
