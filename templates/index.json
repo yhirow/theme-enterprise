@@ -158,6 +158,7 @@
       "blocks": {
         "heading_HRFbYM": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1",
