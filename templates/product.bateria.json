@@ -457,7 +457,7 @@
         "gallery_cols_max": 4,
         "gallery_cols_min": "1",
         "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
+        "fixed_height_mobile": 490,
         "color_scheme": "white"
       }
     },
