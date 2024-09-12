@@ -307,8 +307,8 @@
             "heading": "Mangos de Acero Inoxidable",
             "text": "<p>Permite usar la batería en la estufa o en el horno<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 10,
-            "hotspot_y": 45
+            "hotspot_x": 16,
+            "hotspot_y": 17
           }
         },
         "product-features-feature-1": {
@@ -317,8 +317,8 @@
             "heading": "Antiadherente de Titanio",
             "text": "<p>Máxima resistencia y poder antiadherente<\/p>",
             "content_align": "text-center",
-            "hotspot_x": 32,
-            "hotspot_y": 54
+            "hotspot_x": 17,
+            "hotspot_y": 46
           }
         },
         "product-features-feature-2": {
@@ -327,8 +327,8 @@
             "heading": "Inteligencia Culinaria",
             "text": "<p>La flama cambiar de color cuando la sartén esta caliente<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 38,
-            "hotspot_y": 35
+            "hotspot_x": 31,
+            "hotspot_y": 54
           }
         },
         "product-features-feature-3": {
@@ -337,7 +337,7 @@
             "heading": "Tapas Vidrio Templado",
             "text": "<p>Resisten 870 grados<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 51,
+            "hotspot_x": 62,
             "hotspot_y": 70
           }
         },
@@ -348,7 +348,7 @@
             "text": "<p>Set de utensillos de cocina Titan Black Essential<\/p>",
             "content_align": "text-end",
             "hotspot_x": 90,
-            "hotspot_y": 54
+            "hotspot_y": 59
           }
         }
       },
@@ -367,7 +367,7 @@
         "mob_center_text": true,
         "heading_size": "h3",
         "enlarge_text": false,
-        "image": "shopify:\/\/shop_images\/2.png",
+        "image": "shopify:\/\/shop_images\/3.png",
         "title": "Característica del Producto",
         "description": "<p>Innovación y estilo para tu cocina<\/p>",
         "button_label": "",
