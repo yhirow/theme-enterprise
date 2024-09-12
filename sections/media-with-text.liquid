@@ -50,17 +50,19 @@
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
                      data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
+                     data-loop="true"
                      data-background="false"
                      data-natural-width="true"
                      data-description="{{ section.settings.video_description | escape }}">
       {%- if using_video_tag -%}
-        {{ section.settings.video_shopify | video_tag: playsinline: true, autoplay: autoplay, muted: autoplay, controls: true, poster: '' | replace: '<img ', '<img loading="lazy" hidden ' }}
+        {{ section.settings.video_shopify | video_tag: playsinline: true, autoplay: autoplay, loop: true, muted: autoplay, controls: true, poster: '' | replace: '<img ', '<img loading="lazy" hidden ' }}
       {%- else -%}
-        <div></div>
+        <iframe src="{{ section.settings.video_external | escape }}?loop=1&playlist={{ section.settings.video_external | escape }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       {%- endif -%}
     </video-component>
   </div>
 {%- endcapture -%}
+
 
 
 
