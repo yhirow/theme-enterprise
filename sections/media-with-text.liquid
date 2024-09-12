@@ -45,8 +45,7 @@
 -%}
 
 {%- capture video_component -%}
-  <div class="video-wrapper" style="position: relative; width: 100%; height: auto; padding-top: 56.25%; overflow: hidden;"> 
-    <!-- 56.25% padding-top gives a 16:9 aspect ratio. You can adjust this if needed. -->
+  <div class="video-wrapper" style="position: relative; width: 100%; padding-top: 100%; overflow: hidden;">
     <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
@@ -63,6 +62,7 @@
     </video-component>
   </div>
 {%- endcapture -%}
+
 
 
 
