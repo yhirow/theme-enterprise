@@ -47,18 +47,20 @@
 {%- capture video_component -%}
   <div class="video-wrapper" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
-                   {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
-                   data-video-id="{{ section.id }}"
-                   data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
-                   data-background="false"
-                   data-natural-width="true"
-                   data-description="{{ section.settings.video_description | escape }}">
-    {%- if using_video_tag -%}
-      {{ section.settings.video_shopify | video_tag: playsinline: true, autoplay: autoplay, muted: autoplay, controls: true, poster: '' | replace: '<img ', '<img loading="lazy" hidden ' }}
-    {%- else -%}
-      <div></div>
-    {%- endif -%}
-  </video-component>/div>
+                     {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
+                     data-video-id="{{ section.id }}"
+                     data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
+                     data-loop="true"
+                     data-background="false"
+                     data-natural-width="true"
+                     data-description="{{ section.settings.video_description | escape }}">
+      {%- if using_video_tag -%}
+        {{ section.settings.video_shopify | video_tag: playsinline: true, autoplay: autoplay, loop: true, muted: autoplay, controls: true, poster: '' | replace: '<img ', '<img loading="lazy" hidden ' }}
+      {%- else -%}
+        <iframe src="{{ section.settings.video_external | escape }}?loop=1&playlist={{ section.settings.video_external | escape }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      {%- endif -%}
+    </video-component>
+  </div>
 {%- endcapture -%}
 
 
