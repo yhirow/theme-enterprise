@@ -18,8 +18,8 @@
           "type": "item",
           "settings": {
             "icon": "check_mark",
-            "heading": "Garantía",
-            "text": "<p>Garantía de entrega<\/p>",
+            "heading": "Garantía de entrega",
+            "text": "",
             "link": ""
           }
         },
@@ -27,8 +27,8 @@
           "type": "item",
           "settings": {
             "icon": "box",
-            "heading": "Check your order status",
-            "text": "<p>Updates & tracking<\/p>",
+            "heading": "Envío gratis",
+            "text": "",
             "link": ""
           }
         },
@@ -36,8 +36,8 @@
           "type": "item",
           "settings": {
             "icon": "return",
-            "heading": "Cambios & Devoluciones",
-            "text": "<p>Cambios & Devoluciones fáciles<\/p>",
+            "heading": "Garantía de Devolución",
+            "text": "",
             "link": ""
           }
         },
@@ -45,8 +45,8 @@
           "type": "item",
           "settings": {
             "icon": "credit_card",
-            "heading": "Formas de pago",
-            "text": "<p>Multiples formas de pago<\/p>",
+            "heading": "Multiples formas de pago",
+            "text": "",
             "link": ""
           }
         }
