@@ -275,7 +275,7 @@
         "button_EYPWPa": {
           "type": "button",
           "settings": {
-            "button_label": "Optional button",
+            "button_label": "Conocer más",
             "button_link": "",
             "button_style": "btn btn--primary"
           }
