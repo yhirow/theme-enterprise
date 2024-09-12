@@ -78,7 +78,7 @@
     "image_banner_dnkUJM": {
       "type": "image-banner",
       "custom_css": [
-        ".background {color: #0000;}"
+        ".background {color: #111412;}"
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/png-banner-wen-sin-fondo.png",
