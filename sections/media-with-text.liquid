@@ -70,7 +70,7 @@
 <div class="section section--full-width section--padded {% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}">
   <div class="container">
     <div class="media-with-text{% if section.settings.layout == 'right' %} media-with-text--reverse{% endif %}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
-      <div class="media-with-text__media {% if media_type == 'video' %} video-section{% endif %} relative flex flex-col justify-top overflow-hidden">
+      <div class="media-with-text__media {% if media_type == 'video' %} video-section{% endif %} relative flex flex-col justify-center overflow-hidden">
         <div class="media w-full{% if media_type == 'video' %} absolute top-0 left-0 h-full video-played-hidden{% else %} relative{% endif %}"{% if media_type == 'image' and image != blank %} style="padding-top: {{ 1 | divided_by: image.aspect_ratio | times: 100 }}%;"{% endif %}>
           {%- if image != blank -%}
             {%- capture sizes_md %}calc((50vw - {{ gutter_sm | times: 2 }}px) + 9px){% endcapture -%}
