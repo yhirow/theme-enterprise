@@ -211,6 +211,9 @@
         "heading_RkhiBY",
         "text_xQJLDb"
       ],
+      "custom_css": [
+        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; \/* Full height for centering *\/ padding: 0;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1-nuevo.png",
         "video_shopify": "shopify:\/\/files\/videos\/MG_BENEFICIOS_animado_v2.mp4",
