@@ -1,6 +1,40 @@
+<video id="videoBanner" style="   ;width:100%;pointer-events:none"  
+         poster="{{section.settings.video_img | img_url:'1900x'}}" 
+         playsinline loop autoplay  muted controls="flase">
+  <source src=" {{section.settings.video}}" type="video/mp4">
+</video>
+
+
+ <script>
+    var herovide = document.getElementById('videoBanner');
+    herovide.muted=true;
+    herovide.controls=false;
+     herovide.autoplay=true;
+       herovide.load();
+</script>
+
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+ {
+  "name": "Mp4 Video",
+  "settings": [
+      {
+        "type": "text",
+        "id": "video",
+        "label": "Mp4 Video Url",
+        "default": "https://cdn.shopify.com/s/files/1/0501/8946/7815/files/MGF_Rustic_Video.mp4?v=1619591464"
+      },
+      {
+        "type": "image_picker",
+        "id": "video_img",
+        "label": "Poster Image(that displays when video is loading)"
+      }
+
+  ],
+  "presets": [
+    {
+      "name": "Widescreen Mp4 Video",
+      "category": "Custom"
+    }
+  ]
+}
 {% endschema %}
