@@ -45,7 +45,7 @@
 -%}
 
 {%- capture video_component -%}
-  <div class="video-wrapper" style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+  <div class="video-wrapper" style="position: relative; width: 100%; padding-top: 100%; overflow: hidden;">
     <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
@@ -62,7 +62,6 @@
     </video-component>
   </div>
 {%- endcapture -%}
-
 
 <div class="section section--full-width section--padded {% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}">
   <div class="container">
