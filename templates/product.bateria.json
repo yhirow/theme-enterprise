@@ -457,7 +457,7 @@
         "gallery_cols_max": 4,
         "gallery_cols_min": "1",
         "fixed_height_desktop": 180,
-        "fixed_height_mobile": 200,
+        "fixed_height_mobile": 490,
         "color_scheme": "white"
       }
     },
@@ -472,7 +472,7 @@
         "card_size": "small",
         "products_to_show": 8,
         "show_promo_info": true,
-        "image": "shopify:\/\/shop_images\/e88264328fd6a8bebc30040d7754cda1.jpg",
+        "image": "shopify:\/\/shop_images\/Devolucion_4x5_1a1cd4aa-2d06-495a-b9f8-ad26b1327bff.png",
         "image_ratio": "fill",
         "promo_title": "",
         "content": "",
