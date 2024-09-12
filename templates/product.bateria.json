@@ -235,12 +235,13 @@
         "payment-methods": {
           "type": "payment-methods",
           "settings": {
-            "title": "Paga con Confianza",
-            "title1": "",
+            "title": "Garantías",
+            "title1": "Pago Seguro",
             "show_payment_icons": true,
             "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.<\/p>",
-            "title2": "",
-            "text2": ""
+            "title2": "Garantía de Devolución",
+            "image": "shopify:\/\/shop_images\/garantia_devolucion_icono.001.jpg",
+            "text2": "<p>Sólo acude a una paquetería con la guía per-pagada que va incluida en tu cada de Titan Black Essential, y listo, así de fácil.<\/p>"
           }
         }
       },
