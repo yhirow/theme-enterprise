@@ -518,7 +518,7 @@
         "layout": "grid",
         "card_size": "large",
         "products_to_show": 8,
-        "show_promo_info": true,
+        "show_promo_info": false,
         "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
         "image_ratio": "natural",
         "promo_title": "",
