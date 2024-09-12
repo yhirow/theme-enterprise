@@ -254,6 +254,48 @@
       "settings": {
       }
     },
+    "media_with_text_tjHiwW": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_Q9RpAY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_8q4X9w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si no estás 100% satisfecho, ¡te devolvemos tu dinero! Así de simple. No necesitamos un motivo, ni una historia, ni una excusa. Si no amas lo que compraste, devuélvelo. Te daremos cada centavo de vuelta, y con una sonrisa.<\/p><p><strong>¿Te atreves a ponernos a prueba?<\/strong><\/p><p>Sólo acude a una paquetería con la guía per-pagada que va incluida en tu cada de Titan Black Essential, y listo, así de fácil.<\/p><p>En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprar. <\/p>",
+            "enlarge_text": false
+          }
+        },
+        "button_EYPWPa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q9RpAY",
+        "text_8q4X9w",
+        "button_EYPWPa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Devolucion_1x1_edc5d6a3-d935-402b-84ba-d64c126caefc.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
     "product-features": {
       "type": "product-features",
       "blocks": {
@@ -486,6 +528,7 @@
   "order": [
     "main",
     "details",
+    "media_with_text_tjHiwW",
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
