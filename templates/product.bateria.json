@@ -515,7 +515,7 @@
         "layout": "carousel",
         "card_size": "small",
         "products_to_show": 8,
-        "show_promo_info": true,
+        "show_promo_info": false,
         "image": "shopify:\/\/shop_images\/Devolucion_4x5_1a1cd4aa-2d06-495a-b9f8-ad26b1327bff.png",
         "image_ratio": "fill",
         "promo_title": "",
