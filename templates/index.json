@@ -183,7 +183,7 @@
         "video_description": "",
         "poster_image": "shopify:\/\/shop_images\/Screenshot_2024-09-11_at_10.32.11_a.m._2.png",
         "video_size": "lg",
-        "video_autoplay": false,
+        "video_autoplay": true,
         "text_align": "text-center",
         "color_scheme": "1"
       }
