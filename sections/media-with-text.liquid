@@ -46,6 +46,7 @@
 
 {%- capture video_component -%}
   <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
+                   style="padding-top: 100%;"
                    {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                    data-video-id="{{ section.id }}"
                    data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
