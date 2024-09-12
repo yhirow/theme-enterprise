@@ -62,7 +62,15 @@
     </video-component>
   </div>
 {%- endcapture -%}
-
+<style>
+  .media-with-text__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height for centering */
+    padding: 0;
+  }
+</style>
 <div class="section section--full-width section--padded {% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}">
   <div class="container">
     <div class="media-with-text{% if section.settings.layout == 'right' %} media-with-text--reverse{% endif %}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
