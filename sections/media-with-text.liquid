@@ -45,7 +45,7 @@
 -%}
 
 {%- capture video_component -%}
-  <div class="video-wrapper" style="position: relative; width: 100%; padding-top: 100%; overflow: hidden; margin-top: 10px;">
+  <div class="video-wrapper" style="position: absolute; width: 100%; padding-top: 100%; overflow: hidden; margin-top: 10px;">
     <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
