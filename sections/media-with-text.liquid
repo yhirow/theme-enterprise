@@ -45,7 +45,7 @@
 -%}
 
 {%- capture video_component -%}
-  <div class="video-wrapper" style="position: relative; width: 100%; padding-top: 100%; overflow: hidden;">
+  <div class="video-wrapper" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
     <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
@@ -57,11 +57,12 @@
       {%- if using_video_tag -%}
         {{ section.settings.video_shopify | video_tag: playsinline: true, autoplay: autoplay, loop: true, muted: autoplay, controls: true, poster: '' | replace: '<img ', '<img loading="lazy" hidden ' }}
       {%- else -%}
-        <iframe src="{{ section.settings.video_external | escape }}?loop=1&playlist={{ section.settings.video_external | escape }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe src="{{ section.settings.video_external | escape }}?loop=1&playlist={{ section.settings.video_external | escape }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
       {%- endif -%}
     </video-component>
   </div>
 {%- endcapture -%}
+
 
 <div class="section section--full-width section--padded {% unless color_scheme == 'none' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}">
   <div class="container">
