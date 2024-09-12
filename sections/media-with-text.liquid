@@ -45,7 +45,7 @@
 -%}
 
 {%- capture video_component -%}
-  <div class="video-wrapper" style="display: grid; place-items: center; width: 100%; height: 100%;">
+  <div class="video-wrapper" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
   <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} absolute top-0 left-0 w-full h-full"
                    {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                    data-video-id="{{ section.id }}"
