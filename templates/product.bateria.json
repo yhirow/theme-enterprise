@@ -240,7 +240,7 @@
             "show_payment_icons": true,
             "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.<\/p>",
             "title2": "Garantía de Devolución",
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-09-12_at_11.20.24.jpg",
+            "image": "shopify:\/\/shop_images\/garantia-banner_8ae5d961-b025-4d25-b09a-c40f34c1347a.png",
             "text2": "<p>Sólo acude a una paquetería con la guía per-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. <\/p><p>En 72 horas te devolveremos tu dinero en el mismo medio de pago que utilizaste en la compra.<\/p>"
           }
         }
@@ -494,7 +494,7 @@
         "media_EctqeC"
       ],
       "custom_css": [
-        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 \/ 1; \/* Proporción 1:1 *\/ }"
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 \/ 1; \/* Proporción 1:1 *\/}"
       ],
       "settings": {
         "title": "",
