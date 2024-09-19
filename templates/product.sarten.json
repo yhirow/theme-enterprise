@@ -370,65 +370,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/llama_438db467-de16-4235-a6f3-653fe846cd3a.png",
             "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_4Eaepz": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/lifestyle_2_59a1caf8-7f76-41b1-beb9-9c61928dc7e9.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_PzNzgK": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/UTENSILIOS_1.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_EctqeC": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-3_5adf7706-cc66-45d3-981d-b348e7a5c2e4.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
+            "columns": 2,
+            "rows": 2,
             "subheading": "",
             "title": "",
             "heading_size": "h4",
@@ -444,10 +387,65 @@
       },
       "block_order": [
         "media_CDrqCd",
-        "media_qcPgkb",
-        "media_4Eaepz",
-        "media_PzNzgK",
-        "media_EctqeC"
+        "media_qcPgkb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    },
+    "media_grid_aXXUMz": {
+      "type": "media-grid",
+      "blocks": {
+        "media_6rxDEd": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifestyle_2_59a1caf8-7f76-41b1-beb9-9c61928dc7e9.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_E6Ymi7": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-3_5adf7706-cc66-45d3-981d-b348e7a5c2e4.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_6rxDEd",
+        "media_E6Ymi7"
       ],
       "settings": {
         "title": "",
@@ -489,6 +487,7 @@
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
+    "media_grid_aXXUMz",
     "featured_collection_BEJAnP"
   ]
 }
