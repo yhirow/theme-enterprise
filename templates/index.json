@@ -57,7 +57,7 @@
         ".image-banner__image img {object-fit: cover; object-position: center;}",
         ".text-overlay__block.subheading {color: #ff5733; \/* Cambia el color del subtítulo *\/ font-size: 16px; \/* Cambia el tamaño de la fuente del subtítulo *\/}",
         ".text-overlay__heading {color: #3498db; \/* Cambia el color del título *\/ font-size: 36px; \/* Cambia el tamaño de la fuente del título *\/}",
-        ".text-overlay__block.reading-width {color: #aeaeae; \/* Cambia el color del texto principal *\/ font-size: 19px; \/* Cambia el tamaño de la fuente del texto principal *\/}"
+        ".text-overlay__block.reading-width {color: #aeaeae; \/* Cambia el color del texto principal *\/ }"
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3.jpg",
