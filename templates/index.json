@@ -61,7 +61,7 @@
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/1x1-banner-final.png",
+        "image_mobile": "shopify:\/\/shop_images\/mobile.jpg",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 620,
