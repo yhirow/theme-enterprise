@@ -31,7 +31,7 @@
         "text_wMcCxm": {
           "type": "text",
           "settings": {
-            "text": "<p>Con <strong>Titan Black Essential<\/strong>, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.<\/p>",
+            "text": "<p>Con <strong>Titan Black Essential<\/strong>, transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio<\/strong> de alta calidad.<\/p>",
             "enlarge_text": false
           }
         },
@@ -54,7 +54,10 @@
         "button_68jEg8"
       ],
       "custom_css": [
-        ".image-banner__image img {object-fit: cover; object-position: center;}"
+        ".image-banner__image img {object-fit: cover; object-position: center;}",
+        ".text-overlay__block.subheading {color: #ff5733; \/* Cambia el color del subtítulo *\/ font-size: 16px; \/* Cambia el tamaño de la fuente del subtítulo *\/}",
+        ".text-overlay__heading {color: #3498db; \/* Cambia el color del título *\/ font-size: 36px; \/* Cambia el tamaño de la fuente del título *\/}",
+        ".text-overlay__block.reading-width {color: #2ecc71; \/* Cambia el color del texto principal *\/ font-size: 20px; \/* Cambia el tamaño de la fuente del texto principal *\/}"
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3acbc660-c5da-44fa-ab27-ffa05ec2af6f.png",
