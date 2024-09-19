@@ -367,6 +367,7 @@
         },
         "media_qcPgkb": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Copia_de_SARTENES_CONJUNTO_v1_2.png",
             "link_url": "",
@@ -386,6 +387,7 @@
         },
         "media_4Eaepz": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Copia_de_CACEROLAS_v1_2.png",
             "link_url": "",
@@ -405,6 +407,7 @@
         },
         "media_PzNzgK": {
           "type": "media",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/UTENSILIOS_1.png",
             "link_url": "",
@@ -427,8 +430,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
             "link_url": "",
-            "columns": 1,
-            "rows": 1,
+            "columns": 2,
+            "rows": 2,
             "subheading": "",
             "title": "",
             "heading_size": "h4",
