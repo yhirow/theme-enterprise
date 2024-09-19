@@ -251,7 +251,7 @@
     "panel_bg_color": "#f4f4f4",
     "panel_heading_color": "#2a2b2a",
     "panel_text_color": "#2a2b2a",
-    "drawer_bg_color": "#ffffff",
+    "drawer_bg_color": "#f4f4f4",
     "drawer_text_color": "#2a2b2a",
     "blend_product_images": false,
     "blend_collection_images": true,
