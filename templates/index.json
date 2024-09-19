@@ -55,14 +55,14 @@
         "button_68jEg8"
       ],
       "custom_css": [
-        "primary-button {background-color: #fff;}"
+        ".image-banner__image {width: 100%; height: auto; max-width: 100%;}"
       ],
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3acbc660-c5da-44fa-ab27-ffa05ec2af6f.png",
         "image_mobile": "shopify:\/\/shop_images\/1x1-banner-final.png",
         "url": "",
-        "height_mode": "fixed",
-        "fixed_height_desktop": 600,
+        "height_mode": "screen",
+        "fixed_height_desktop": 750,
         "fixed_height_mobile": 440,
         "overlay_position": "justify-start items-end",
         "overlay_text_align": "text-start",
