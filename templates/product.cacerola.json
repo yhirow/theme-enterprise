@@ -263,8 +263,8 @@
             "heading": "Mangos de Acero Inoxidable",
             "text": "<p>Permite usar la batería en la estufa o en el horno<\/p>",
             "content_align": "text-start",
-            "hotspot_x": 20,
-            "hotspot_y": 53
+            "hotspot_x": 23,
+            "hotspot_y": 24
           }
         },
         "product-features-feature-1": {
@@ -279,6 +279,7 @@
         },
         "product-features-feature-2": {
           "type": "feature",
+          "disabled": true,
           "settings": {
             "heading": "Inteligencia Culinaria",
             "text": "<p>La flama cambiar de color cuando la sartén esta caliente<\/p>",
@@ -300,11 +301,11 @@
         "feature_LX8BEi": {
           "type": "feature",
           "settings": {
-            "heading": "10 Piezas de Regalo",
+            "heading": "Pintura Resistente",
             "text": "<p>Set de utensillos de cocina Titan Black Essential<\/p>",
             "content_align": "text-end",
-            "hotspot_x": 90,
-            "hotspot_y": 70
+            "hotspot_x": 68,
+            "hotspot_y": 36
           }
         }
       },
