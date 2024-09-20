@@ -41,13 +41,13 @@
         "text"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/LIFE-1.png",
+        "image_desktop": "shopify:\/\/shop_images\/chef-cocinando-comida-sarten-llama-fuego-transformed.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/chef-cocinando-comida-sarten-llama-fuego.jpg",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 560,
         "fixed_height_mobile": 440,
-        "overlay_position": "justify-start items-end",
+        "overlay_position": "justify-start items-center",
         "overlay_text_align": "text-start",
         "mob_center_text": true,
         "mobile_stacked": false,
