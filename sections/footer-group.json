@@ -75,9 +75,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "image_width": 150,
-            "heading": "Talk about your store",
-            "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+            "image": "shopify:\/\/shop_images\/LOGO_TITAN_BLACK.png",
+            "image_width": 180,
+            "heading": "TITAN BLACK ESSENTIAL",
+            "text": "<p>Transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio<\/strong> de alta calidad.<\/p>",
             "button_label": "",
             "button_link": "",
             "show_social": false,
@@ -94,7 +95,7 @@
         "link-list-2": {
           "type": "link_list",
           "settings": {
-            "heading": "Footer links",
+            "heading": "Navegación",
             "menu": "footer"
           }
         },
@@ -102,7 +103,7 @@
           "type": "newsletter",
           "settings": {
             "heading": "Newsletter",
-            "text": "<p>Sign up for exclusive offers, original stories, events and more.<\/p>",
+            "text": "<p>Sé el primero en enterarte de las novedades que <strong>Titan Black Essential<\/strong> tiene para ti<\/p>",
             "collapse_mobile": true
           }
         }
