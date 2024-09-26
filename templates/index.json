@@ -32,7 +32,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Con <strong>Titan Black Essential<\/strong>, transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio<\/strong> de alta calidad.<\/p>",
+            "text": "<p>Con <strong>Titan Black Essential</strong>, transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio</strong> de alta calidad.</p>",
             "enlarge_text": false
           }
         },
@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "button_1_label": "Comprar Ahora",
-            "button_1_link": "shopify:\/\/products\/titan-black",
+            "button_1_link": "shopify://products/titan-black",
             "button_1_style": "btn btn--primary",
             "button_2_label": "",
             "button_2_link": "",
@@ -58,8 +58,8 @@
         ".image-banner__image img {object-fit: cover; object-position: center;}"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/banner-final-web_3acbc660-c5da-44fa-ab27-ffa05ec2af6f.png",
-        "image_mobile": "shopify:\/\/shop_images\/1x1-banner-final.png",
+        "image_desktop": "shopify://shop_images/banner-final-web_3acbc660-c5da-44fa-ab27-ffa05ec2af6f.png",
+        "image_mobile": "shopify://shop_images/1x1-banner-final.png",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 620,
@@ -81,8 +81,8 @@
 
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/png-banner-wen-sin-fondo.png",
-        "image_mobile": "shopify:\/\/shop_images\/1x1-fondo-gris.png",
+        "image_desktop": "shopify://shop_images/png-banner-wen-sin-fondo.png",
+        "image_mobile": "shopify://shop_images/1x1-fondo-gris.png",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 570,
@@ -119,7 +119,7 @@
         "text_kYdjH7": {
           "type": "text",
           "settings": {
-            "text": "<p>Imagina cocinar con la misma tecnología que utiliza la industria aeroespacial. Nuestra batería de cocina contiene partículas de titanio en el antiadherente, el mismo material utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre. <\/p><p><strong>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente, y sabores inigualables.<\/strong><\/p>",
+            "text": "<p>Imagina cocinar con la misma tecnología que utiliza la industria aeroespacial. Nuestra batería de cocina contiene partículas de titanio en el antiadherente, el mismo material utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre. </p><p><strong>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente, y sabores inigualables.</strong></p>",
             "enlarge_text": false
           }
         },
@@ -143,7 +143,7 @@
         "button_N6ch74"
       ],
       "custom_css": [
-        ".section--padded {margin-top: 50%; \/* Reducir el margen superior al 50% de su valor actual *\/}"
+        ".section--padded {margin-top: 50%; /* Reducir el margen superior al 50% de su valor actual */}"
       ],
       "settings": {
         "text_align": "text-center",
@@ -168,7 +168,7 @@
         "text_VCnKNJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Bienvenidos a la era del titanio.<\/p>",
+            "text": "<p>Bienvenidos a la era del titanio.</p>",
             "enlarge_text": true
           }
         }
@@ -178,10 +178,10 @@
         "text_VCnKNJ"
       ],
       "settings": {
-        "video_shopify": "shopify:\/\/files\/videos\/TITAN_ESSENTIAL_16X9_3.mp4",
-        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_shopify": "shopify://files/videos/TITAN_ESSENTIAL_16X9_3.mp4",
+        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_description": "",
-        "poster_image": "shopify:\/\/shop_images\/Screenshot_2024-09-11_at_10.32.11_a.m._2.png",
+        "poster_image": "shopify://shop_images/Screenshot_2024-09-11_at_10.32.11_a.m._2.png",
         "video_size": "lg",
         "video_autoplay": false,
         "text_align": "text-center",
@@ -202,7 +202,7 @@
         "text_xQJLDb": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Una versatilidad insuperable<\/strong><\/p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. <\/p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.<\/p>",
+            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
             "enlarge_text": false
           }
         }
@@ -212,11 +212,10 @@
         "text_xQJLDb"
       ],
       "custom_css": [
-        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; \/* Full height for centering *\/ padding: 0;}"
+        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; /* Full height for centering */ padding: 0;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MG_BENEFICIOS-1x1-nuevo.png",
-        "video_shopify": "shopify:\/\/files\/videos\/MG_BENEFICIOS_animado_v2_e44b6fd4-2109-4376-84ee-95f8f1542ac9.mp4",
+        "image": "shopify://shop_images/MG_BENEFICIOS-1x1-nuevo.png",
         "video_external": "",
         "video_description": "",
         "video_autoplay": true,
@@ -239,7 +238,7 @@
         "text_aEhgKD": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Diseñada para resistir el paso del tiempo. <\/strong><\/p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. <\/p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.<\/p>",
+            "text": "<p><strong>Diseñada para resistir el paso del tiempo. </strong></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
             "enlarge_text": false
           }
         },
@@ -259,7 +258,7 @@
         "button_pyBdi7"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LIFE-1.png",
+        "image": "shopify://shop_images/LIFE-1.png",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -274,8 +273,8 @@
         "slide_kigTng": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/back_d6d7530a-7b02-4dd6-9946-e32c830062aa.png",
-            "image_mobile": "shopify:\/\/shop_images\/back_c7bcb668-e618-4f73-8170-e77d4861cda2.png",
+            "image_desktop": "shopify://shop_images/back_d6d7530a-7b02-4dd6-9946-e32c830062aa.png",
+            "image_mobile": "shopify://shop_images/back_c7bcb668-e618-4f73-8170-e77d4861cda2.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -306,8 +305,8 @@
         "slide_HLJ4D4": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/inteligencia_48a51956-e263-4cad-9fb3-ca6684edb8ea.png",
-            "image_mobile": "shopify:\/\/shop_images\/inteligencia_69414364-bc7f-4ead-b1c2-cb10ed2b8f9c.png",
+            "image_desktop": "shopify://shop_images/inteligencia_48a51956-e263-4cad-9fb3-ca6684edb8ea.png",
+            "image_mobile": "shopify://shop_images/inteligencia_69414364-bc7f-4ead-b1c2-cb10ed2b8f9c.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -338,8 +337,8 @@
         "slide_pWUWNH": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/saborea_ae4b44fb-793a-4c34-9210-b78a4809bc56.png",
-            "image_mobile": "shopify:\/\/shop_images\/sabor.png",
+            "image_desktop": "shopify://shop_images/saborea_ae4b44fb-793a-4c34-9210-b78a4809bc56.png",
+            "image_mobile": "shopify://shop_images/sabor.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -370,8 +369,8 @@
         "slide_geepxd": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/terreno_db703edf-49d0-499f-9c39-22cc4576136c.png",
-            "image_mobile": "shopify:\/\/shop_images\/terreno_f9eb6fe7-721d-47df-9e1a-890c170096e6.png",
+            "image_desktop": "shopify://shop_images/terreno_db703edf-49d0-499f-9c39-22cc4576136c.png",
+            "image_mobile": "shopify://shop_images/terreno_f9eb6fe7-721d-47df-9e1a-890c170096e6.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -402,8 +401,8 @@
         "slide_6TnPt3": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/maxima_83b81792-5143-4205-a5a6-bcb9e6b9441e.png",
-            "image_mobile": "shopify:\/\/shop_images\/maxima_05b6e822-f4c5-4864-9ce5-e547a9172a98.png",
+            "image_desktop": "shopify://shop_images/maxima_83b81792-5143-4205-a5a6-bcb9e6b9441e.png",
+            "image_mobile": "shopify://shop_images/maxima_05b6e822-f4c5-4864-9ce5-e547a9172a98.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -472,7 +471,7 @@
         "text_ezhTmk": {
           "type": "text",
           "settings": {
-            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación<\/p>",
+            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación</p>",
             "enlarge_text": true
           }
         },
@@ -496,7 +495,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/03_banner_ollas_v2.png",
+        "image_desktop": "shopify://shop_images/03_banner_ollas_v2.png",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -523,10 +522,10 @@
         "card_size": "large",
         "products_to_show": 10,
         "show_promo_info": false,
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
         "image_ratio": "natural",
         "promo_title": "",
-        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.<\/p>",
+        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
         "link_url": "",
         "button_label": "",
         "color_scheme": "1",
@@ -555,7 +554,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.<\/p>",
+            "text": "<p>Con Titan Black Essential, transforma tu cocina en un espacio gourmet, con una batería de cocina de Titanio de alta calidad.</p>",
             "enlarge_text": true
           }
         },
@@ -564,7 +563,7 @@
           "disabled": true,
           "settings": {
             "button_1_label": "Comprar Ahora",
-            "button_1_link": "shopify:\/\/products\/titan-black",
+            "button_1_link": "shopify://products/titan-black",
             "button_1_style": "btn btn--primary",
             "button_2_label": "",
             "button_2_link": "",
@@ -580,8 +579,8 @@
       ],
       "disabled": true,
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/lifestyle_3.png",
-        "image_mobile": "shopify:\/\/shop_images\/lifestyle_3.png",
+        "image_desktop": "shopify://shop_images/lifestyle_3.png",
+        "image_mobile": "shopify://shop_images/lifestyle_3.png",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 750,
