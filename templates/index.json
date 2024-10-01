@@ -27,11 +27,11 @@
             "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
             "enlarge_text": true,
             "button_1_label": "Comprar ahora",
-            "button_1_link": "shopify://collections/bags",
+            "button_1_link": "",
             "button_1_style": "btn btn--primary",
-            "button_2_label": "",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary",
+            "button_2_label": "flecha",
+            "button_2_link": "#template--16293330878673__image_banner_dnkUJM",
+            "button_2_style": "link",
             "countdown_show": false,
             "countdown_end_date": "",
             "countdown_end_time": "",
@@ -50,7 +50,7 @@
       ],
       "custom_css": [
         ".slideshow__text.container .btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
-        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons,.slideshow__text.container .btn--primary {width: 100%; }}"
+        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; }}"
       ],
       "settings": {
         "height_mode": "auto",
