@@ -102,7 +102,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -315,7 +315,7 @@
         "heading_RQgTww": {
           "type": "heading",
           "settings": {
-            "heading": "Media with text",
+            "heading": "TODO TERRENO",
             "heading_size": "h3",
             "heading_h1": false
           }
@@ -323,69 +323,17 @@
         "text_dXtQzb": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
             "enlarge_text": false
-          }
-        },
-        "button_MwXKCF": {
-          "type": "button",
-          "settings": {
-            "button_label": "Optional button",
-            "button_link": "",
-            "button_style": "btn btn--primary"
           }
         }
       },
       "block_order": [
         "heading_RQgTww",
-        "text_dXtQzb",
-        "button_MwXKCF"
+        "text_dXtQzb"
       ],
       "settings": {
         "image": "shopify://shop_images/Mask_group.jpg",
-        "video_external": "",
-        "video_description": "",
-        "video_autoplay": false,
-        "layout": "left",
-        "text_align": "text-start",
-        "color_scheme": "none"
-      }
-    },
-    "media_with_text_YBJzMj": {
-      "type": "media-with-text",
-      "blocks": {
-        "heading_kYLjiY": {
-          "type": "heading",
-          "settings": {
-            "heading": "UN LEGADO QUE TRASCIENDE GENERACIONES",
-            "heading_size": "h5",
-            "heading_h1": false
-          }
-        },
-        "text_aEhgKD": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Diseñada para resistir el paso del tiempo. </strong></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
-            "enlarge_text": false
-          }
-        },
-        "button_pyBdi7": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Optional button",
-            "button_link": "",
-            "button_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kYLjiY",
-        "text_aEhgKD",
-        "button_pyBdi7"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/LIFE-1.png",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -400,7 +348,7 @@
         "heading_zQXh8k": {
           "type": "heading",
           "settings": {
-            "heading": "Media with text",
+            "heading": "UN LEGADO QUE TRASCIENDE GENERACIONES",
             "heading_size": "h3",
             "heading_h1": false
           }
@@ -408,105 +356,20 @@
         "text_7TYddi": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p><strong>Diseñada para resistir el paso del tiempo. </strong></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
             "enlarge_text": false
-          }
-        },
-        "button_pRfMkp": {
-          "type": "button",
-          "settings": {
-            "button_label": "Optional button",
-            "button_link": "",
-            "button_style": "btn btn--primary"
           }
         }
       },
       "block_order": [
         "heading_zQXh8k",
-        "text_7TYddi",
-        "button_pRfMkp"
+        "text_7TYddi"
       ],
       "settings": {
+        "image": "shopify://shop_images/Mask_group_1.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
-        "layout": "left",
-        "text_align": "text-start",
-        "color_scheme": "none"
-      }
-    },
-    "media_with_text_REJcEF": {
-      "type": "media-with-text",
-      "blocks": {
-        "heading_CiBy9c": {
-          "type": "heading",
-          "settings": {
-            "heading": "Media with text",
-            "heading_size": "h3",
-            "heading_h1": false
-          }
-        },
-        "text_FRCVeb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "enlarge_text": false
-          }
-        },
-        "button_GfqXaC": {
-          "type": "button",
-          "settings": {
-            "button_label": "Optional button",
-            "button_link": "",
-            "button_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CiBy9c",
-        "text_FRCVeb",
-        "button_GfqXaC"
-      ],
-      "settings": {
-        "video_external": "",
-        "video_description": "",
-        "video_autoplay": false,
-        "layout": "left",
-        "text_align": "text-start",
-        "color_scheme": "none"
-      }
-    },
-    "media_with_text_PjzmgU": {
-      "type": "media-with-text",
-      "blocks": {
-        "heading_RkhiBY": {
-          "type": "heading",
-          "settings": {
-            "heading": "TODO TERRENO",
-            "heading_size": "h5",
-            "heading_h1": false
-          }
-        },
-        "text_xQJLDb": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RkhiBY",
-        "text_xQJLDb"
-      ],
-      "custom_css": [
-        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; /* Full height for centering */ padding: 0;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MG_BENEFICIOS-1x1-nuevo.png",
-        "video_external": "",
-        "video_description": "",
-        "video_autoplay": true,
         "layout": "right",
         "text_align": "text-start",
         "color_scheme": "none"
@@ -930,15 +793,12 @@
   "order": [
     "slideshow_dq7ayP",
     "slideshow_9VneEk",
+    "media_with_text_wF3bmy",
+    "media_with_text_ALczPF",
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "video_Jz7mGL",
-    "media_with_text_wF3bmy",
-    "media_with_text_YBJzMj",
-    "media_with_text_ALczPF",
-    "media_with_text_REJcEF",
-    "media_with_text_PjzmgU",
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "featured_collection_BjKMUQ",
