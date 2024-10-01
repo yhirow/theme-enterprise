@@ -154,6 +154,7 @@
         "text_dXtQzb"
       ],
       "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
         ".section--padded {padding-bottom: 0;}"
       ],
       "settings": {
@@ -190,6 +191,7 @@
         "text_7TYddi"
       ],
       "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
         ".section--padded {padding-top: 0;}"
       ],
       "settings": {
