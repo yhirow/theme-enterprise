@@ -50,7 +50,8 @@
       ],
       "custom_css": [
         ".slideshow__text.container .btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
-        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; }}"
+        ".slideshow__text.container .link {display: none;}",
+        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {display: block; margin-bottom: 20px; }}"
       ],
       "settings": {
         "height_mode": "auto",
