@@ -309,42 +309,6 @@
         "color_scheme": "1"
       }
     },
-    "media_with_text_PjzmgU": {
-      "type": "media-with-text",
-      "blocks": {
-        "heading_RkhiBY": {
-          "type": "heading",
-          "settings": {
-            "heading": "TODO TERRENO",
-            "heading_size": "h5",
-            "heading_h1": false
-          }
-        },
-        "text_xQJLDb": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RkhiBY",
-        "text_xQJLDb"
-      ],
-      "custom_css": [
-        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; /* Full height for centering */ padding: 0;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MG_BENEFICIOS-1x1-nuevo.png",
-        "video_external": "",
-        "video_description": "",
-        "video_autoplay": true,
-        "layout": "right",
-        "text_align": "text-end",
-        "color_scheme": "none"
-      }
-    },
     "media_with_text_YBJzMj": {
       "type": "media-with-text",
       "blocks": {
@@ -385,6 +349,42 @@
         "video_autoplay": false,
         "layout": "left",
         "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "media_with_text_PjzmgU": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_RkhiBY": {
+          "type": "heading",
+          "settings": {
+            "heading": "TODO TERRENO",
+            "heading_size": "h5",
+            "heading_h1": false
+          }
+        },
+        "text_xQJLDb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RkhiBY",
+        "text_xQJLDb"
+      ],
+      "custom_css": [
+        ".media-with-text__text {display: flex; align-items: center; justify-content: center; height: 70vh; /* Full height for centering */ padding: 0;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MG_BENEFICIOS-1x1-nuevo.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "right",
+        "text_align": "text-end",
         "color_scheme": "none"
       }
     },
@@ -810,8 +810,8 @@
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "video_Jz7mGL",
-    "media_with_text_PjzmgU",
     "media_with_text_YBJzMj",
+    "media_with_text_PjzmgU",
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "featured_collection_BjKMUQ",
