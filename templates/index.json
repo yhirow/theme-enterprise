@@ -9,6 +9,64 @@
 */
 {
   "sections": {
+    "slideshow_dq7ayP": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_PHK4iK": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/desktop_image_1_1.jpg",
+            "image_mobile": "shopify://shop_images/Hero_image.jpg",
+            "overlay_position": "justify-center items-end",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Titan Black Essencial",
+            "heading_size": "h1",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Comprar ahora",
+            "button_1_link": "shopify://collections/bags",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)"
+          }
+        }
+      },
+      "block_order": [
+        "slide_PHK4iK"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 750,
+        "fixed_height_mobile": 500,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": false,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
     "image_banner_z4hG9a": {
       "type": "image-banner",
       "blocks": {
@@ -683,6 +741,7 @@
     }
   },
   "order": [
+    "slideshow_dq7ayP",
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
