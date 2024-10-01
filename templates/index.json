@@ -39,7 +39,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)"
           }
@@ -51,7 +51,7 @@
       "custom_css": [
         ".slideshow__text.container .btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
-        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {display: block; margin-bottom: 20px; }}"
+        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; }}"
       ],
       "settings": {
         "height_mode": "auto",
