@@ -72,6 +72,64 @@
         "prevent_animation": true
       }
     },
+    "slideshow_9VneEk": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_y66XRk": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/0.jpg",
+            "image_mobile": "shopify://shop_images/0.jpg",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "Titan Black",
+            "heading": "Bienvenidos a la era del titanio.",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse neque urna,</p>",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_y66XRk"
+      ],
+      "settings": {
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 400,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": false,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
     "image_banner_z4hG9a": {
       "type": "image-banner",
       "blocks": {
@@ -747,6 +805,7 @@
   },
   "order": [
     "slideshow_dq7ayP",
+    "slideshow_9VneEk",
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
