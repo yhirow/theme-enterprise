@@ -158,7 +158,7 @@
         ".section--padded {padding-bottom: 0;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Mask_group.jpg",
+        "image": "shopify://shop_images/Mask_group_2_1.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -195,7 +195,7 @@
         ".section--padded {padding-top: 0;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Mask_group_1.jpg",
+        "image": "shopify://shop_images/Mask_group_3_1.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
