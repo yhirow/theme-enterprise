@@ -701,6 +701,10 @@
     },
     "featured_collection_BjKMUQ": {
       "type": "featured-collection",
+      "custom_css": [
+        ".cc-featured-collection {background: white;}",
+        ".product-card {border-radius: 8px;}"
+      ],
       "settings": {
         "title": "LINEA TITAN BLACK ESSENTIAL",
         "heading_align": "text-center",
@@ -716,7 +720,7 @@
         "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
         "link_url": "",
         "button_label": "",
-        "color_scheme": "1",
+        "color_scheme": "3",
         "button_style": "btn btn--primary"
       }
     },
