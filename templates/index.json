@@ -703,7 +703,7 @@
       "type": "featured-collection",
       "custom_css": [
         ".cc-featured-collection {background: white;}",
-        ".product-card {border-radius: 8px;}"
+        "product-card {border-radius: 8px;}"
       ],
       "settings": {
         "title": "LINEA TITAN BLACK ESSENTIAL",
