@@ -155,7 +155,8 @@
       ],
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
-        "@media only screen and (min-width: 600px) {.section--padded {padding-bottom: 0; }}"
+        "@media only screen and (min-width: 600px) {.section--padded {padding-bottom: 0; }}",
+        "h2,p {color: white;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Mask_group_2_1.jpg",
@@ -192,7 +193,8 @@
       ],
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
-        "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}"
+        "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
+        "h2,p {color: white;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Mask_group_3_1.jpg",
@@ -800,11 +802,70 @@
         "border_color": "rgba(0,0,0,0)",
         "bg_color": "#f4f4f4"
       }
+    },
+    "slideshow_RGf9AA": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Vxqb9g": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/desktop_image_02_1_1_1.jpg",
+            "image_mobile": "shopify://shop_images/desktop_image_02_1_1_1.jpg",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse neque urna, eleifeneros ornare ac. Donec auctor ex vitae metus dignissim, non porttitor sapien tincidunt. Phasellus fringilla aliquet dui et faucibus. Curabitur facilisis efficitur lectus, eu aliquam tortor tempor et. Cras ultricies augue eu odio cursus, ac efficit",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Vxqb9g"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
     }
   },
   "order": [
     "slideshow_dq7ayP",
     "slideshow_9VneEk",
+    "slideshow_RGf9AA",
     "media_with_text_wF3bmy",
     "media_with_text_ALczPF",
     "image_banner_z4hG9a",
