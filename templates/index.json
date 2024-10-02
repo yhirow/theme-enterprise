@@ -373,7 +373,7 @@
         "text_VCnKNJ"
       ],
       "custom_css": [
-        ".container {padding: 0;}",
+        ".container {padding: 0; max-width: 100%;}",
         ".section--padded {padding-bottom: 0;}"
       ],
       "settings": {
