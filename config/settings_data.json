@@ -71,7 +71,7 @@
       "card_bg_color": "#ffffff",
       "card_text_color": "#26262b",
       "card_border_color": "#f2f2f2",
-      "compare_empty_field_text": "N\/A",
+      "compare_empty_field_text": "N/A",
       "inventory_threshold_low": 20,
       "inventory_threshold_very_low": 8,
       "inventory_show_notice": "always",
@@ -182,7 +182,7 @@
       "show_dividers": false,
       "compare_toggle": "toggle_off",
       "compare_show_empty_metafields": false,
-      "compare_empty_field_text": "N\/A",
+      "compare_empty_field_text": "N/A",
       "inventory_show_notice": "always",
       "inventory_show_count": "always",
       "in_stock_text_color": "#0da44a",
@@ -293,7 +293,7 @@
     "card_text_color": "#26262b",
     "card_border_color": "#f2f2f2",
     "show_dividers": false,
-    "compare_empty_field_text": "N\/A",
+    "compare_empty_field_text": "N/A",
     "inventory_threshold_low": 20,
     "inventory_threshold_very_low": 8,
     "inventory_show_notice": "always",
@@ -334,12 +334,17 @@
     "free_shipping_minimum": "USD:100",
     "free_shipping_color_scheme": "1",
     "animations_enabled": "mobile_desktop",
-    "favicon": "shopify:\/\/shop_images\/LOGO.png",
+    "favicon": "shopify://shop_images/LOGO.png",
     "image_quality": "0.75",
     "blur_message_delay": 4,
     "vibrate_on_atc": true,
     "heading_type_scale": "1.3",
     "content_for_index": [
+
+    ]
+  },
+  "platform_customizations": {
+    "custom_css": [
 
     ]
   }
