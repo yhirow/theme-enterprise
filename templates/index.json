@@ -378,7 +378,7 @@
         "nav_style": "slideshow_nav_dots",
         "nav_position": "justify-center",
         "transition": "slide-fade",
-        "autoplay": false,
+        "autoplay": true,
         "slider_pause": false,
         "autoplay_speed": 5,
         "color_scheme": "white",
