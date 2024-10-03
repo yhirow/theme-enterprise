@@ -85,7 +85,7 @@
             "mob_center_text": false,
             "subheading": "Titan Black",
             "heading": "Bienvenidos a la era del titanio.",
-            "heading_size": "h0",
+            "heading_size": "h2",
             "heading_h1": false,
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse neque urna,</p>",
             "enlarge_text": true,
@@ -169,6 +169,9 @@
       "block_order": [
         "slide_Vxqb9g"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.slideshow__text {position: absolute; bottom: 40px; }}"
+      ],
       "settings": {
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -195,7 +198,7 @@
           "type": "heading",
           "settings": {
             "heading": "Todo terreno",
-            "heading_size": "h3",
+            "heading_size": "h2",
             "heading_h1": false
           }
         },
@@ -241,7 +244,7 @@
           "type": "heading",
           "settings": {
             "heading": "Un legado que trasciende generaciones",
-            "heading_size": "h3",
+            "heading_size": "h2",
             "heading_h1": false
           }
         },
@@ -310,10 +313,10 @@
             "mob_center_text": false,
             "subheading": "Subheading",
             "heading": "Slideshow",
-            "heading_size": "h0",
+            "heading_size": "h2",
             "heading_h1": false,
             "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
-            "enlarge_text": true,
+            "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "link",
