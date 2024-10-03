@@ -360,9 +360,9 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".section__block.h2,.text-overlay__heading.h2 {line-height: 1.3em;}",
-      ".slideshow__text .text-overlay {max-width: 500px;}",
-      ".color-scheme--white,.slideshow-section {background: black !important;}"
+      "/* Interlineado de H2 */.section__block.h2,.text-overlay__heading.h2 {line-height: 1.3em;}",
+      "/* Bloques de texto en slideshows */.slideshow__text .text-overlay {max-width: 500px;}",
+      "/* Forzar Fondo negro en slideshows */.slideshow-section {background: black !important;}"
     ]
   }
 }

@@ -51,7 +51,7 @@
       "custom_css": [
         ".btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
-        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; color: transparent; }}"
+        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px;} .slideshow__text.container .link {display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; color: transparent; }}"
       ],
       "settings": {
         "height_mode": "auto",
@@ -173,7 +173,7 @@
         "slide_Vxqb9g"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 600px) {.slideshow__text {position: absolute; bottom: 80px; }}"
+        "@media only screen and (max-width: 600px) {.slideshow__text {/* Posicion del texto abajo en mobile */ position: absolute; bottom: 80px; }}"
       ],
       "settings": {
         "height_mode": "auto",
