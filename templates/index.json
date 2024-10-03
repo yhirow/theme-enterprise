@@ -392,8 +392,8 @@
     "featured_collection_BjKMUQ": {
       "type": "featured-collection",
       "custom_css": [
-        ".cc-featured-collection {background: white; padding-top: 40px; padding-bottom: 40px;}",
-        "product-card {border-radius: 8px;}"
+        ".cc-featured-collection {background: white; padding-top: 40px; padding-bottom: 0px;}",
+        ".product-card {border-radius: 8px;}"
       ],
       "settings": {
         "title": "LINEA TITAN BLACK ESSENTIAL",
