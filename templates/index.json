@@ -88,7 +88,7 @@
             "heading_size": "h2",
             "heading_h1": false,
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse neque urna,</p>",
-            "enlarge_text": true,
+            "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
