@@ -223,6 +223,7 @@
       ],
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
         "@media only screen and (min-width: 600px) {.section--padded {padding-bottom: 0; }}",
         "h2,p {color: white;}",
         "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
@@ -268,7 +269,8 @@
         "text_7TYddi"
       ],
       "custom_css": [
-        ".media-with-text {max-width: 1288px; background: black;}",
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
         "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
         "h2,p {color: white;}",
         "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
