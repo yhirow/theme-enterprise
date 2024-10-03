@@ -221,7 +221,8 @@
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
         "@media only screen and (min-width: 600px) {.section--padded {padding-bottom: 0; }}",
-        "h2,p {color: white;}"
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Mask_group_2_1.jpg",
@@ -266,7 +267,8 @@
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
         "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
-        "h2,p {color: white;}"
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Mask_group_3_1.jpg",
