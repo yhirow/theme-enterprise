@@ -389,6 +389,31 @@
         "prevent_animation": true
       }
     },
+    "featured_collection_BjKMUQ": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".cc-featured-collection {background: white; padding-top: 40px; padding-bottom: 40px;}",
+        "product-card {border-radius: 8px;}"
+      ],
+      "settings": {
+        "title": "LINEA TITAN BLACK ESSENTIAL",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "grid",
+        "card_size": "large",
+        "products_to_show": 10,
+        "show_promo_info": false,
+        "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
+        "image_ratio": "natural",
+        "promo_title": "",
+        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "3",
+        "button_style": "btn btn--primary"
+      }
+    },
     "image_banner_z4hG9a": {
       "type": "image-banner",
       "blocks": {
@@ -777,31 +802,6 @@
         "prevent_animation": false
       }
     },
-    "featured_collection_BjKMUQ": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".cc-featured-collection {background: white;}",
-        "product-card {border-radius: 8px;}"
-      ],
-      "settings": {
-        "title": "LINEA TITAN BLACK ESSENTIAL",
-        "heading_align": "text-center",
-        "show_view_all": true,
-        "collection": "titan-black",
-        "layout": "grid",
-        "card_size": "large",
-        "products_to_show": 10,
-        "show_promo_info": false,
-        "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
-        "image_ratio": "natural",
-        "promo_title": "",
-        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
-        "link_url": "",
-        "button_label": "",
-        "color_scheme": "3",
-        "button_style": "btn btn--primary"
-      }
-    },
     "image_banner_QnVDhe": {
       "type": "image-banner",
       "blocks": {
@@ -960,12 +960,12 @@
     "media_with_text_ALczPF",
     "video_Jz7mGL",
     "slideshow_L68GBD",
+    "featured_collection_BjKMUQ",
     "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "slideshow_aUNzPc",
     "image_banner_9At4aL",
-    "featured_collection_BjKMUQ",
     "image_banner_QnVDhe",
     "featured_product_zyAGmb"
   ]
