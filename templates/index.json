@@ -127,7 +127,7 @@
         "tint_color": "#000000",
         "tint_opacity": 60,
         "accessibility_info": "",
-        "prevent_animation": false
+        "prevent_animation": true
       }
     },
     "slideshow_RGf9AA": {
