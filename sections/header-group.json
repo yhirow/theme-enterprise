@@ -13,6 +13,9 @@
   "sections": {
     "header": {
       "type": "header",
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.logo__link span {max-width: 30px;}}"
+      ],
       "settings": {
         "enable_sticky": true,
         "mobile_menu_position": "burger-right",
@@ -39,13 +42,13 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<p><strong>Envío gratis a partir de $799.00<\/strong><\/p>"
+            "text": "<p><strong>Envío gratis a partir de $799.00</strong></p>"
           }
         },
         "announcement-2": {
           "type": "announcement",
           "settings": {
-            "text": "<p><strong>Meses sin intereses<\/strong> con tarjeta de crédito<\/p>"
+            "text": "<p><strong>Meses sin intereses</strong> con tarjeta de crédito</p>"
           }
         }
       },
@@ -84,7 +87,7 @@
         "text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share something special with your customers.<\/p>",
+            "text": "<p>Share something special with your customers.</p>",
             "enlarge_text": false,
             "show_on_mobile": true,
             "show_on_desktop": true
