@@ -368,7 +368,7 @@
         "slide_AXdFNP"
       ],
       "custom_css": [
-
+        ".link {background: url('https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074');}"
       ],
       "settings": {
         "height_mode": "auto",
