@@ -112,7 +112,7 @@
         "slide_y66XRk"
       ],
       "custom_css": [
-        ".slideshow-section {margin-top:-2px;}"
+        ".slideshow-section {margin-top: -4px;}"
       ],
       "settings": {
         "height_mode": "fixed",
