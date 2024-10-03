@@ -229,7 +229,7 @@
         "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Mask_group_2_1.jpg",
+        "image": "shopify://shop_images/0_1.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -276,7 +276,7 @@
         "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Mask_group_3_1.jpg",
+        "image": "shopify://shop_images/1.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
