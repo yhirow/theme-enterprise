@@ -51,7 +51,7 @@
       "custom_css": [
         ".btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
-        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons,.slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {/* Agrega flecha en mobile */ display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; color: transparent; }}"
+        "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {/* Agrega flecha en mobile */ display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; color: transparent; }}"
       ],
       "settings": {
         "height_mode": "auto",
@@ -227,9 +227,9 @@
       "custom_css": [
         ".media-with-text {max-width: 1288px;}",
         ".cc-media-with-text {background: black;}",
-        "@media only screen and (min-width: 600px) {.section--padded {padding-bottom: 0; }}",
+        "@media only screen and (min-width: 600px) {.section--padded {/* Elimina Padding en mobile*/ padding-bottom: 0; }}",
         "h2,p {color: white;}",
-        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
+        "@media only screen and (max-width: 450px) {/* Imagenes al 100% y agrega padding al texto */ .container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/0_1.jpg",
