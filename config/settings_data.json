@@ -362,7 +362,7 @@
     "custom_css": [
       ".section__block.h2,.text-overlay__heading.h2 {line-height: 1.3em;}",
       ".slideshow__text .text-overlay {max-width: 500px;}",
-      ".slideshow-section {background: black !important; margin-bottom: -1px;}"
+      ".slideshow-section {background: black !important;}"
     ]
   }
 }
