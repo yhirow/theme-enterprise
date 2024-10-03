@@ -160,7 +160,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -314,7 +314,7 @@
             "enlarge_text": true,
             "button_1_label": "Optional button",
             "button_1_link": "",
-            "button_1_style": "btn btn--primary",
+            "button_1_style": "link",
             "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary",
@@ -325,7 +325,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -346,7 +346,7 @@
             "enlarge_text": true,
             "button_1_label": "Optional button",
             "button_1_link": "",
-            "button_1_style": "btn btn--primary",
+            "button_1_style": "link",
             "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary",
@@ -357,7 +357,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -366,6 +366,9 @@
       "block_order": [
         "slide_pMdBfm",
         "slide_AXdFNP"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "height_mode": "auto",
