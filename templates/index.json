@@ -406,7 +406,7 @@
         ".cc-featured-collection {background: white; padding-top: 20px; padding-bottom: 20px;}",
         "product-card {border-radius: 8px;}",
         "form {text-align: center;}",
-        "form buttom {width: auto !important;}"
+        "form button {width: auto;}"
       ],
       "settings": {
         "title": "LINEA TITAN BLACK ESSENTIAL",
