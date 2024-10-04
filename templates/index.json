@@ -349,10 +349,10 @@
             "overlay_text_align": "text-start",
             "mob_center_text": false,
             "subheading": "TECNOLOGÍA DE VANGUARDIA",
-            "heading": "Inteligencia culinaria en cada pieza",
+            "heading": "Black to Black",
             "heading_size": "h2",
             "heading_h1": false,
-            "text": "<p>Las sartenes Titan Black Essential cuentan con una llama indicadores en el centro que cambia de color para avisarte cuando está lista para cocinar.</p>",
+            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación.</p>",
             "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
@@ -375,19 +375,21 @@
         "slide_GmnC98": {
           "type": "slide",
           "settings": {
-            "overlay_position": "justify-center items-center",
-            "overlay_text_align": "text-center",
+            "image_desktop": "shopify://shop_images/banner_carrusel_02.png",
+            "image_mobile": "shopify://shop_images/banner_carrusel_02_mobile.png",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
             "mob_center_text": false,
-            "subheading": "Subheading",
-            "heading": "Slideshow",
-            "heading_size": "h0",
+            "subheading": "",
+            "heading": "Saboréa tus alimentos, y no la sartén.",
+            "heading_size": "h2",
             "heading_h1": false,
-            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "text": "<p>Su revestimiento antiadherente a base de titanio, preserva el sabor auténtico de cada ingrediente, evitando la mezcla de sabores indeseados</p>",
             "enlarge_text": true,
-            "button_1_label": "Optional button",
+            "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
+            "button_2_label": "",
             "button_2_link": "",
             "button_2_style": "btn btn--primary",
             "countdown_show": false,
@@ -397,7 +399,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -405,6 +407,8 @@
         "slide_HdXFyc": {
           "type": "slide",
           "settings": {
+            "image_desktop": "shopify://shop_images/bannerheader_titan_desktop.png",
+            "image_mobile": "shopify://shop_images/banner_header_mobile.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -427,7 +431,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -435,6 +439,8 @@
         "slide_bXPdaQ": {
           "type": "slide",
           "settings": {
+            "image_desktop": "shopify://shop_images/banner_destacado.png",
+            "image_mobile": "shopify://shop_images/banner_destacado_mobile.png",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -457,7 +463,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -664,6 +670,7 @@
         "slide_geepxd",
         "slide_6TnPt3"
       ],
+      "disabled": true,
       "settings": {
         "height_mode": "auto",
         "fixed_height_desktop": 750,
