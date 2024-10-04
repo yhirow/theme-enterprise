@@ -404,7 +404,9 @@
       "type": "featured-collection",
       "custom_css": [
         ".cc-featured-collection {background: white; padding-top: 20px; padding-bottom: 20px;}",
-        "product-card {border-radius: 8px;}"
+        "product-card {border-radius: 8px;}",
+        "form {text-align: center;}",
+        "form buttom {width: auto !important;}"
       ],
       "settings": {
         "title": "LINEA TITAN BLACK ESSENTIAL",
@@ -412,7 +414,7 @@
         "show_view_all": true,
         "collection": "titan-black",
         "layout": "grid",
-        "card_size": "large",
+        "card_size": "medium",
         "products_to_show": 10,
         "show_promo_info": false,
         "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
@@ -421,7 +423,7 @@
         "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
         "link_url": "",
         "button_label": "",
-        "color_scheme": "3",
+        "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
     },
