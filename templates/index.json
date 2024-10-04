@@ -343,8 +343,8 @@
         "slide_AXdFNP": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/Group_3741_1.jpg",
-            "image_mobile": "shopify://shop_images/Mask_group_5.jpg",
+            "image_desktop": "shopify://shop_images/banner_carrusel_01.png",
+            "image_mobile": "shopify://shop_images/banner_carrusel_01_mobile.png",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
@@ -371,11 +371,104 @@
             "bg_color": "#070707",
             "bg_grad": ""
           }
+        },
+        "slide_GmnC98": {
+          "type": "slide",
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_HdXFyc": {
+          "type": "slide",
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_bXPdaQ": {
+          "type": "slide",
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
         }
       },
       "block_order": [
         "slide_pMdBfm",
-        "slide_AXdFNP"
+        "slide_AXdFNP",
+        "slide_GmnC98",
+        "slide_HdXFyc",
+        "slide_bXPdaQ"
       ],
       "custom_css": [
         ".text-overlay__block::after {/* Agrega Logo despues del texto */ background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074\") no-repeat; width: 300px; height: 100px; background-size: 100%; background-position: bottom;}",
@@ -398,113 +491,6 @@
         "tint_opacity": 40,
         "accessibility_info": "",
         "prevent_animation": true
-      }
-    },
-    "featured_collection_BjKMUQ": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".cc-featured-collection {background: white; padding-top: 20px; padding-bottom: 20px;}",
-        "product-card {border-radius: 8px;}",
-        "form {text-align: center;}",
-        "form button {width: auto;}"
-      ],
-      "settings": {
-        "title": "LINEA TITAN BLACK ESSENTIAL",
-        "heading_align": "text-center",
-        "show_view_all": true,
-        "collection": "titan-black",
-        "layout": "grid",
-        "card_size": "medium",
-        "products_to_show": 10,
-        "show_promo_info": false,
-        "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
-        "image_ratio": "natural",
-        "promo_title": "",
-        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
-        "link_url": "",
-        "button_label": "",
-        "color_scheme": "2",
-        "button_style": "btn btn--primary"
-      }
-    },
-    "image_banner_dnkUJM": {
-      "type": "image-banner",
-      "disabled": true,
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image_desktop": "shopify://shop_images/png-banner-wen-sin-fondo.png",
-        "image_mobile": "shopify://shop_images/1x1-fondo-gris.png",
-        "url": "",
-        "height_mode": "fixed",
-        "fixed_height_desktop": 570,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-center items-center",
-        "overlay_text_align": "text-center",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "default",
-        "full_width": true,
-        "tint_color": "#000000",
-        "tint_opacity": 0,
-        "prevent_animation": false
-      }
-    },
-    "rich_text_mBgfiK": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_z7BReV": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_7fP7PH": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h5",
-            "heading_h1": true
-          }
-        },
-        "text_kYdjH7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Imagina cocinar con la misma tecnología que utiliza la industria aeroespacial. Nuestra batería de cocina contiene partículas de titanio en el antiadherente, el mismo material utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre. </p><p><strong>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente, y sabores inigualables.</strong></p>",
-            "enlarge_text": false
-          }
-        },
-        "button_N6ch74": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_z7BReV",
-        "heading_7fP7PH",
-        "text_kYdjH7",
-        "button_N6ch74"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".section--padded {margin-top: 50%; /* Reducir el margen superior al 50% de su valor actual */}"
-      ],
-      "settings": {
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "color_scheme": "3",
-        "full_width": true,
-        "prevent_animation": false
       }
     },
     "slideshow_aUNzPc": {
@@ -678,7 +664,6 @@
         "slide_geepxd",
         "slide_6TnPt3"
       ],
-      "disabled": true,
       "settings": {
         "height_mode": "auto",
         "fixed_height_desktop": 750,
@@ -696,6 +681,113 @@
         "tint_opacity": 0,
         "accessibility_info": "",
         "prevent_animation": true
+      }
+    },
+    "featured_collection_BjKMUQ": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".cc-featured-collection {background: white; padding-top: 20px; padding-bottom: 20px;}",
+        "product-card {border-radius: 8px;}",
+        "form {text-align: center;}",
+        "form button {width: auto;}"
+      ],
+      "settings": {
+        "title": "LINEA TITAN BLACK ESSENTIAL",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "grid",
+        "card_size": "medium",
+        "products_to_show": 10,
+        "show_promo_info": false,
+        "image": "shopify://shop_images/WhatsApp_Image_2024-09-11_at_15.28.29.jpg",
+        "image_ratio": "natural",
+        "promo_title": "",
+        "content": "<p>Si no amas tu producto, te devolvemos tu dinero. Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprarlo.</p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "image_banner_dnkUJM": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image_desktop": "shopify://shop_images/png-banner-wen-sin-fondo.png",
+        "image_mobile": "shopify://shop_images/1x1-fondo-gris.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 570,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "default",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_mBgfiK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_z7BReV": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_7fP7PH": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h5",
+            "heading_h1": true
+          }
+        },
+        "text_kYdjH7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Imagina cocinar con la misma tecnología que utiliza la industria aeroespacial. Nuestra batería de cocina contiene partículas de titanio en el antiadherente, el mismo material utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre. </p><p><strong>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente, y sabores inigualables.</strong></p>",
+            "enlarge_text": false
+          }
+        },
+        "button_N6ch74": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_z7BReV",
+        "heading_7fP7PH",
+        "text_kYdjH7",
+        "button_N6ch74"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section--padded {margin-top: 50%; /* Reducir el margen superior al 50% de su valor actual */}"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "3",
+        "full_width": true,
+        "prevent_animation": false
       }
     },
     "image_banner_9At4aL": {
@@ -910,10 +1002,10 @@
     "media_with_text_ALczPF",
     "video_Jz7mGL",
     "slideshow_L68GBD",
+    "slideshow_aUNzPc",
     "featured_collection_BjKMUQ",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
-    "slideshow_aUNzPc",
     "image_banner_9At4aL",
     "image_banner_QnVDhe",
     "featured_product_zyAGmb"
