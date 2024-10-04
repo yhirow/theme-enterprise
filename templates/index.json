@@ -427,74 +427,9 @@
         "button_style": "btn btn--primary"
       }
     },
-    "image_banner_z4hG9a": {
-      "type": "image-banner",
-      "blocks": {
-        "subheading_tVx4mL": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_ACC7Mp": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "TITAN BLACK essential",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_wMcCxm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Con <strong>Titan Black Essential</strong>, transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio</strong> de alta calidad.</p>",
-            "enlarge_text": false
-          }
-        },
-        "button_68jEg8": {
-          "type": "button",
-          "settings": {
-            "button_1_label": "Comprar Ahora",
-            "button_1_link": "shopify://products/titan-black",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_tVx4mL",
-        "heading_ACC7Mp",
-        "text_wMcCxm",
-        "button_68jEg8"
-      ],
-      "custom_css": [
-        ".image-banner__image img {object-fit: cover; object-position: center;}"
-      ],
-      "settings": {
-        "image_desktop": "shopify://shop_images/banner-final-web_3acbc660-c5da-44fa-ab27-ffa05ec2af6f.png",
-        "image_mobile": "shopify://shop_images/1x1-banner-final.png",
-        "url": "",
-        "height_mode": "fixed",
-        "fixed_height_desktop": 620,
-        "fixed_height_mobile": 440,
-        "overlay_position": "justify-start items-end",
-        "overlay_text_align": "text-start",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "3",
-        "full_width": true,
-        "tint_color": "#000000",
-        "tint_opacity": 0,
-        "prevent_animation": false
-      }
-    },
     "image_banner_dnkUJM": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -560,6 +495,7 @@
         "text_kYdjH7",
         "button_N6ch74"
       ],
+      "disabled": true,
       "custom_css": [
         ".section--padded {margin-top: 50%; /* Reducir el margen superior al 50% de su valor actual */}"
       ],
@@ -742,6 +678,7 @@
         "slide_geepxd",
         "slide_6TnPt3"
       ],
+      "disabled": true,
       "settings": {
         "height_mode": "auto",
         "fixed_height_desktop": 750,
@@ -974,7 +911,6 @@
     "video_Jz7mGL",
     "slideshow_L68GBD",
     "featured_collection_BjKMUQ",
-    "image_banner_z4hG9a",
     "image_banner_dnkUJM",
     "rich_text_mBgfiK",
     "slideshow_aUNzPc",
