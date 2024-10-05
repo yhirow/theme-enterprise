@@ -311,8 +311,8 @@
         "slide_pMdBfm": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/banner_carrusel_03.png",
-            "image_mobile": "shopify://shop_images/banner_carrusel_03_mobile.png",
+            "image_desktop": "shopify://shop_images/banner_carrusel_03.jpg",
+            "image_mobile": "shopify://shop_images/banner_carrusel_03_mobile.jpg",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
@@ -343,8 +343,8 @@
         "slide_AXdFNP": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/banner_carrusel_01.png",
-            "image_mobile": "shopify://shop_images/banner_carrusel_01_mobile.png",
+            "image_desktop": "shopify://shop_images/banner_carrusel_01.jpg",
+            "image_mobile": "shopify://shop_images/banner_carrusel_01_mobile.jpg",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
@@ -375,8 +375,8 @@
         "slide_GmnC98": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/banner_carrusel_02.png",
-            "image_mobile": "shopify://shop_images/banner_carrusel_02_mobile.png",
+            "image_desktop": "shopify://shop_images/banner_carrusel_02.jpg",
+            "image_mobile": "shopify://shop_images/banner_carrusel_02_mobile.jpg",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
@@ -477,7 +477,8 @@
         "slide_bXPdaQ"
       ],
       "custom_css": [
-
+        ".text-overlay__block::after {/* Agrega Logo despues del texto */ background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074\") no-repeat; width: 300px; height: 100px; background-size: 100%; background-position: bottom;}",
+        "@media only screen and (max-width: 600px) {.text-overlay__block::after {background-size: 70%; } /* Agrega margen top para mobile */ .slideshow__text.container {margin-top: 280px; }}"
       ],
       "settings": {
         "height_mode": "auto",
@@ -669,6 +670,7 @@
         "slide_geepxd",
         "slide_6TnPt3"
       ],
+      "disabled": true,
       "custom_css": [
         ".text-overlay__block::after {/* Agrega Logo despues del texto */ background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074\") no-repeat; width: 300px; height: 100px; background-size: 100%; background-position: bottom;}",
         "@media only screen and (max-width: 600px) {.text-overlay__block::after {background-size: 70%; } /* Agrega margen top para mobile */ .slideshow__text.container {margin-top: 280px; }}"
