@@ -669,7 +669,6 @@
         "slide_geepxd",
         "slide_6TnPt3"
       ],
-      "disabled": true,
       "custom_css": [
         ".text-overlay__block::after {/* Agrega Logo despues del texto */ background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074\") no-repeat; width: 300px; height: 100px; background-size: 100%; background-position: bottom;}",
         "@media only screen and (max-width: 600px) {.text-overlay__block::after {background-size: 70%; } /* Agrega margen top para mobile */ .slideshow__text.container {margin-top: 280px; }}"
