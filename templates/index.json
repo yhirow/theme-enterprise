@@ -308,19 +308,19 @@
     "slideshow_L68GBD": {
       "type": "slideshow",
       "blocks": {
-        "slide_pMdBfm": {
+        "slide_AXdFNP": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/banner_carrusel_03.jpg",
-            "image_mobile": "shopify://shop_images/banner_carrusel_03_mobile.jpg",
+            "image_desktop": "shopify://shop_images/banner_carrusel_01.jpg",
+            "image_mobile": "shopify://shop_images/banner_carrusel_01_mobile.jpg",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
-            "subheading": "TECNOLOGÍA DE VANGUARDIA",
-            "heading": "Inteligencia culinaria <br>en cada pieza",
+            "subheading": "ESTILO SUPERIOR",
+            "heading": "Una línea estética <br> Black to Black",
             "heading_size": "h2",
             "heading_h1": false,
-            "text": "<p>Las sartenes Titan Black Essential cuentan con una llama indicadores en el centro que cambia de color para avisarte cuando está lista para cocinar.</p>",
+            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación.</p>",
             "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
@@ -340,19 +340,19 @@
             "bg_grad": ""
           }
         },
-        "slide_AXdFNP": {
+        "slide_pMdBfm": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/banner_carrusel_01.jpg",
-            "image_mobile": "shopify://shop_images/banner_carrusel_01_mobile.jpg",
+            "image_desktop": "shopify://shop_images/banner_carrusel_03.jpg",
+            "image_mobile": "shopify://shop_images/banner_carrusel_03_mobile.jpg",
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-start",
             "mob_center_text": false,
-            "subheading": "ESTILO SUPERIOR",
-            "heading": "Una línea estética <br> Black to Black",
+            "subheading": "TECNOLOGÍA DE VANGUARDIA",
+            "heading": "Inteligencia culinaria <br>en cada pieza",
             "heading_size": "h2",
             "heading_h1": false,
-            "text": "<p>Diseño totalmente negro, que aporta un estilo superior a tu cocina, haciendo que cada pieza sea un reflejo de buen gusto y sofisticación.</p>",
+            "text": "<p>Las sartenes Titan Black Essential cuentan con una llama indicadores en el centro que cambia de color para avisarte cuando está lista para cocinar.</p>",
             "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
@@ -470,8 +470,8 @@
         }
       },
       "block_order": [
-        "slide_pMdBfm",
         "slide_AXdFNP",
+        "slide_pMdBfm",
         "slide_GmnC98",
         "slide_HdXFyc",
         "slide_bXPdaQ"
