@@ -478,7 +478,7 @@
       ],
       "custom_css": [
         ".text-overlay__block::after {/* Agrega Logo despues del texto */ background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/logo_18be8706-4358-4a34-bc65-c3483205574e.png?v=1727914074\") no-repeat; width: 300px; height: 100px; background-size: 100%; background-position: bottom;}",
-        "@media only screen and (max-width: 600px) {.text-overlay__block::after {background-size: 60%; width: 100%; } /* Agrega margen top para mobile */ .slideshow__text.container {margin-top: 280px; } .slideshow {height: calc(100vh - 64px); }}"
+        "@media only screen and (max-width: 600px) {.text-overlay__block::after {background-size: 60%; width: 100%; } /* Agrega margen top para mobile */ .slideshow__text.container {margin-top: 280px; } .slideshow {height: calc(100vh - 164px); }}"
       ],
       "settings": {
         "height_mode": "auto",
