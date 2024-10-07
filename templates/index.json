@@ -27,7 +27,7 @@
             "text": "<p>Con <strong>Titan Black Essential </strong>transforma tu cocina en un espacio gourmet, con una batería de Titanio de alta calidad.</p>",
             "enlarge_text": true,
             "button_1_label": "Comprar ahora",
-            "button_1_link": "#",
+            "button_1_link": "shopify://products/titan-black",
             "button_1_style": "btn btn--primary",
             "button_2_label": "flecha",
             "button_2_link": "#slideshow-template--16293330878673__slideshow_9VneEk",
@@ -49,7 +49,7 @@
         "slide_PHK4iK"
       ],
       "custom_css": [
-        "btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
+        ".btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
         "@media only screen and (max-width: 450px) {.slideshow__text.container .text-overlay__buttons, .slideshow__text.container .btn--primary {width: 100%; margin-bottom: 0px; } .slideshow__text.container .link {/* Agrega flecha en mobile */ display: block; margin-bottom: 20px; background: url(\"https://cdn.shopify.com/s/files/1/0642/5441/0961/files/arrow.svg\") no-repeat center center; color: transparent; }}"
       ],
