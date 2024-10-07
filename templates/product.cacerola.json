@@ -42,7 +42,7 @@
           "type": "richtext",
           "disabled": true,
           "settings": {
-            "text": "<p><strong>Bienvenido a la era del Titanio<\/strong><\/p><p><br\/><strong>TITAN BLACK ESSENTIAL<\/strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.<\/p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.<\/p>"
+            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><br/><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
           }
         },
         "variant-picker": {
@@ -81,7 +81,7 @@
           "disabled": true,
           "settings": {
             "icon": "clock",
-            "title": "<p><strong>Popular right now<br\/><\/strong>Lots of people have looked at this recently<\/p>",
+            "title": "<p><strong>Popular right now<br/></strong>Lots of people have looked at this recently</p>",
             "close": "once",
             "show_over_media": true,
             "visibility_duration": 4,
@@ -94,7 +94,7 @@
           "disabled": true,
           "settings": {
             "icon": "price_tag",
-            "title": "<p><strong>Selling fast!<br\/><\/strong>Grab yours while you can<\/p>",
+            "title": "<p><strong>Selling fast!<br/></strong>Grab yours while you can</p>",
             "close": "once",
             "show_over_media": true,
             "visibility_duration": 5,
@@ -108,7 +108,7 @@
           "settings": {
             "heading": "Care information",
             "icon": "heart",
-            "text": "<p>Display general product information or specific product information using metafields.<\/p>",
+            "text": "<p>Display general product information or specific product information using metafields.</p>",
             "page": "",
             "open": false
           }
@@ -119,7 +119,7 @@
           "settings": {
             "heading": "Delivery and Shipping",
             "icon": "truck",
-            "text": "<p>Add some general information about your delivery and shipping policies.<\/p>",
+            "text": "<p>Add some general information about your delivery and shipping policies.</p>",
             "page": "",
             "open": false
           }
@@ -135,7 +135,7 @@
           "disabled": true,
           "settings": {
             "icon": "none",
-            "title": "<p>Add a stand out message for your customers<\/p>",
+            "title": "<p>Add a stand out message for your customers</p>",
             "close": "once",
             "show_over_media": false,
             "visibility_duration": 7,
@@ -191,7 +191,7 @@
         "richtext_jKWk4T": {
           "type": "richtext",
           "settings": {
-            "text": "<p><strong>Bienvenido a la era del Titanio<\/strong><\/p><p><strong>TITAN BLACK ESSENTIAL<\/strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.<\/p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.<\/p>"
+            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
           }
         },
         "highlight-text": {
@@ -199,14 +199,14 @@
           "disabled": true,
           "settings": {
             "title": "Bienvenido a la era del Titanio",
-            "text": "<p><strong>TITAN BLACK ESSENTIAL<\/strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.<\/p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.<\/p>"
+            "text": "<p><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
           }
         },
         "richtext_bntz74": {
           "type": "richtext",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about this product with your customers.<\/p>"
+            "text": "<p>Share information about this product with your customers.</p>"
           }
         },
         "tabs": {
@@ -238,7 +238,7 @@
             "title": "Paga con Confianza",
             "title1": "",
             "show_payment_icons": true,
-            "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.<\/p>",
+            "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.</p>",
             "title2": "",
             "text2": ""
           }
@@ -254,6 +254,67 @@
       "settings": {
       }
     },
+    "slideshow_Yz4tcg": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_xPLMHx": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/desktop_image_02_1_1_1.jpg",
+            "image_mobile": "shopify://shop_images/Group_3747_1_1.jpg",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "heading_h1": false,
+            "text": "<p>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre</p>",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_xPLMHx"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.slideshow__text {/* Posicion del texto abajo en mobile */ position: absolute; bottom: 80px; }}"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
     "product-features": {
       "type": "product-features",
       "blocks": {
@@ -261,7 +322,7 @@
           "type": "feature",
           "settings": {
             "heading": "Mangos de Acero Inoxidable",
-            "text": "<p>Permite usar la batería en la estufa o en el horno<\/p>",
+            "text": "<p>Permite usar la batería en la estufa o en el horno</p>",
             "content_align": "text-start",
             "hotspot_x": 23,
             "hotspot_y": 24
@@ -271,7 +332,7 @@
           "type": "feature",
           "settings": {
             "heading": "Antiadherente de Titanio",
-            "text": "<p>Máxima resistencia y poder antiadherente<\/p>",
+            "text": "<p>Máxima resistencia y poder antiadherente</p>",
             "content_align": "text-center",
             "hotspot_x": 35,
             "hotspot_y": 80
@@ -282,7 +343,7 @@
           "disabled": true,
           "settings": {
             "heading": "Inteligencia Culinaria",
-            "text": "<p>La flama cambiar de color cuando la sartén esta caliente<\/p>",
+            "text": "<p>La flama cambiar de color cuando la sartén esta caliente</p>",
             "content_align": "text-start",
             "hotspot_x": 38,
             "hotspot_y": 65
@@ -292,7 +353,7 @@
           "type": "feature",
           "settings": {
             "heading": "Tapas Vidrio Templado",
-            "text": "<p>Resisten 870 grados<\/p>",
+            "text": "<p>Resisten 870 grados</p>",
             "content_align": "text-start",
             "hotspot_x": 60,
             "hotspot_y": 70
@@ -302,7 +363,7 @@
           "type": "feature",
           "settings": {
             "heading": "Pintura Resistente",
-            "text": "<p>Set de utensillos de cocina Titan Black Essential<\/p>",
+            "text": "<p>Set de utensillos de cocina Titan Black Essential</p>",
             "content_align": "text-end",
             "hotspot_x": 68,
             "hotspot_y": 36
@@ -324,9 +385,9 @@
         "mob_center_text": true,
         "heading_size": "h3",
         "enlarge_text": false,
-        "image": "shopify:\/\/shop_images\/cacerola-con-tapa.png",
+        "image": "shopify://shop_images/cacerola-con-tapa.png",
         "title": "Característica del Producto",
-        "description": "<p>Innovación y estilo para tu cocina<\/p>",
+        "description": "<p>Innovación y estilo para tu cocina</p>",
         "button_label": "",
         "button_link": "",
         "hotspot_color": "#e66936",
@@ -350,7 +411,7 @@
         "media_CDrqCd": {
           "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Copia_de_MG_BENEFICIOS_2.png",
+            "image": "shopify://shop_images/Copia_de_MG_BENEFICIOS_2.png",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -369,7 +430,7 @@
         "media_qcPgkb": {
           "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi.png",
+            "image": "shopify://shop_images/MG_PROPIEDADES-shopi.png",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -408,7 +469,7 @@
         "media_3LzTNr": {
           "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
+            "image": "shopify://shop_images/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -427,7 +488,7 @@
         "media_6hbiz7": {
           "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MG_PROPIEDADES-shopi-2.png",
+            "image": "shopify://shop_images/MG_PROPIEDADES-shopi-2.png",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -471,7 +532,7 @@
         "card_size": "small",
         "products_to_show": 8,
         "show_promo_info": true,
-        "image": "shopify:\/\/shop_images\/e88264328fd6a8bebc30040d7754cda1.jpg",
+        "image": "shopify://shop_images/e88264328fd6a8bebc30040d7754cda1.jpg",
         "image_ratio": "fill",
         "promo_title": "",
         "content": "",
@@ -485,6 +546,7 @@
   "order": [
     "main",
     "details",
+    "slideshow_Yz4tcg",
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
