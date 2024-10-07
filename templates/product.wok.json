@@ -453,7 +453,8 @@
         "media_PzNzgK"
       ],
       "custom_css": [
-        "/* Asegúrate de aplicar este CSS solo a la sección específica usando un selector adecuado */#button-container img {width: auto; /* Permite que la imagen mantenga su proporción natural */ height: auto; /* Permite que la imagen mantenga su proporción natural */ max-width: 100%; /* Ajusta la imagen para que no se salga de su contenedor */ aspect-ratio: 1 / 1; /* Fuerza la proporción 1:1 */ object-fit: cover; /* Asegura que la imagen cubra toda el área disponible, recortando si es necesario */ display: block; /* Elimina el espacio en línea blanca debajo de la imagen */}"
+        ".gallery {display: grid; gap: 10px; /* Ajusta el espacio entre las imágenes */}",
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Mantener la proporción 1:1 */}"
       ],
       "settings": {
         "title": "",
