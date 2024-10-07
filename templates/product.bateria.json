@@ -267,7 +267,7 @@
             "overlay_text_align": "text-start",
             "mob_center_text": false,
             "subheading": "",
-            "heading": "",
+            "heading": "Tecnología de vanguardia",
             "heading_size": "h2",
             "heading_h1": false,
             "text": "<p>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre</p>",
@@ -311,7 +311,7 @@
         "color_scheme": "white",
         "full_width": true,
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 0,
         "accessibility_info": "",
         "prevent_animation": true
       }
