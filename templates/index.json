@@ -189,7 +189,7 @@
         "color_scheme": "white",
         "full_width": true,
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 10,
         "accessibility_info": "",
         "prevent_animation": true
       }
