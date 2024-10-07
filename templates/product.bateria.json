@@ -416,6 +416,63 @@
         "color_scheme": "none"
       }
     },
+    "media_with_text_eBEy3r": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_J3QDTU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un legado que trasciende generaciones",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "subheading_FnHYDt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Diseñada para resistir el paso del tiempo."
+          }
+        },
+        "text_zBP3yh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_KpBXyr": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J3QDTU",
+        "subheading_FnHYDt",
+        "text_zBP3yh",
+        "button_KpBXyr"
+      ],
+      "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
+        "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
     "product-features": {
       "type": "product-features",
       "blocks": {
@@ -478,11 +535,7 @@
         "feature_LX8BEi"
       ],
       "custom_css": [
-        ".media-with-text {max-width: 1288px;}",
-        ".cc-media-with-text {background: black;}",
-        "@media only screen and (min-width: 600px) {.section--padded {/* Elimina Padding en mobile*/ padding-bottom: 0; }}",
-        "h2,p {color: white;}",
-        "@media only screen and (max-width: 450px) {/* Imagenes al 100% y agrega padding al texto */ .container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
+
       ],
       "settings": {
         "product": "titan-black",
@@ -498,7 +551,7 @@
         "button_label": "",
         "button_link": "",
         "hotspot_color": "#e66936",
-        "color_scheme": "1",
+        "color_scheme": "none",
         "button_style": "btn btn--primary"
       }
     },
@@ -659,6 +712,7 @@
     "slideshow_pHGDRm",
     "media_with_text_tjHiwW",
     "media_with_text_y3ENhX",
+    "media_with_text_eBEy3r",
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
