@@ -315,6 +315,106 @@
         "prevent_animation": true
       }
     },
+    "media_with_text_VhCbz8": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_mMhNLA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Todo terreno",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_qXdcmE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_zQTRht": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mMhNLA",
+        "text_qXdcmE",
+        "button_zQTRht"
+      ],
+      "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
+        "@media only screen and (min-width: 600px) {.section--padded {/* Elimina Padding en mobile*/ padding-bottom: 0; }}",
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {/* Imagenes al 100% y agrega padding al texto */ .container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/0_1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "media_with_text_qnqwHt": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_REA7AB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un legado que trasciende generaciones",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_yjUhBK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Diseñada para resistir el paso del tiempo.</strong></p><p><strong>Titan Black Essential</strong> es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_rcicaa": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_REA7AB",
+        "text_yjUhBK",
+        "button_rcicaa"
+      ],
+      "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
+        "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
     "product-features": {
       "type": "product-features",
       "blocks": {
@@ -547,6 +647,8 @@
     "main",
     "details",
     "slideshow_Yz4tcg",
+    "media_with_text_VhCbz8",
+    "media_with_text_qnqwHt",
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
