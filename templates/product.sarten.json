@@ -529,6 +529,10 @@
         "media_CDrqCd",
         "media_qcPgkb"
       ],
+      "custom_css": [
+        ".gallery {display: grid; gap: 10px; /* Ajusta el espacio entre las imágenes */}",
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Mantener la proporción 1:1 */}"
+      ],
       "settings": {
         "title": "",
         "heading_align": "text-start",
@@ -537,7 +541,7 @@
         "gallery_cols_max": 4,
         "gallery_cols_min": "1",
         "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
+        "fixed_height_mobile": 180,
         "color_scheme": "white"
       }
     },
@@ -587,6 +591,10 @@
         "media_6rxDEd",
         "media_E6Ymi7"
       ],
+      "custom_css": [
+        ".gallery {display: grid; gap: 10px; /* Ajusta el espacio entre las imágenes */}",
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Mantener la proporción 1:1 */}"
+      ],
       "settings": {
         "title": "",
         "heading_align": "text-start",
@@ -595,7 +603,7 @@
         "gallery_cols_max": 4,
         "gallery_cols_min": "1",
         "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
+        "fixed_height_mobile": 180,
         "color_scheme": "white"
       }
     },
