@@ -514,7 +514,8 @@
         "media_PNNVgz"
       ],
       "custom_css": [
-        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Proporción 1:1 */ }"
+        ".gallery {display: grid; gap: 10px; /* Ajusta el espacio entre las imágenes */ }",
+        " .gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Mantener la proporción 1:1 */ }"
       ],
       "settings": {
         "title": "",
