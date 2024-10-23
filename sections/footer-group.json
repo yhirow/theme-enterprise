@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer Group",
@@ -75,10 +75,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LOGO_TITAN_BLACK.png",
+            "image": "shopify://shop_images/LOGO_TITAN_BLACK.png",
             "image_width": 180,
             "heading": "TITAN BLACK ESSENTIAL",
-            "text": "<p>Transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio<\/strong> de alta calidad.<\/p>",
+            "text": "<p>Transforma tu cocina en un espacio gourmet, con una batería de cocina de<strong> Titanio</strong> de alta calidad.</p>",
             "button_label": "",
             "button_link": "",
             "show_social": false,
@@ -88,8 +88,8 @@
         "link-list-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Footer links",
-            "menu": "footer"
+            "heading": "Colecciones",
+            "menu": "colecciones"
           }
         },
         "link-list-2": {
@@ -103,7 +103,7 @@
           "type": "newsletter",
           "settings": {
             "heading": "Newsletter",
-            "text": "<p>Sé el primero en enterarte de las novedades que <strong>Titan Black Essential<\/strong> tiene para ti<\/p>",
+            "text": "<p>Sé el primero en enterarte de las novedades que <strong>Titan Black Essential</strong> tiene para ti</p>",
             "collapse_mobile": true
           }
         }
