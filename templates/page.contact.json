@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -31,7 +31,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>En <strong>Titan Black Essential<\/strong>, nos comprometemos a ofrecerte la mejor experiencia. Si tienes alguna consulta sobre tu pedido, garantía, o necesitas asistencia técnica, no dudes en comunicarte con nosotros. Puedes contactarnos de las siguientes maneras:<\/p>",
+            "text": "<p>En <strong>Titan Black Essential</strong>, nos comprometemos a ofrecerte la mejor experiencia. Si tienes alguna consulta sobre tu pedido, garantía, o necesitas asistencia técnica, no dudes en comunicarte con nosotros. Puedes contactarnos de las siguientes maneras:</p>",
             "enlarge_text": true
           }
         }
@@ -41,8 +41,8 @@
         "text"
       ],
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/chef-cocinando-comida-sarten-llama-fuego-transformed.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/chef-cocinando-comida-sarten-llama-fuego.jpg",
+        "image_desktop": "shopify://shop_images/chef-cocinando-comida-sarten-llama-fuego-transformed.jpg",
+        "image_mobile": "shopify://shop_images/chef-cocinando-comida-sarten-llama-fuego.jpg",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 560,
@@ -101,7 +101,7 @@
         "heading": "Formulario de Contacto",
         "heading_align": "text-center",
         "image_position": "top",
-        "color_scheme": "1",
+        "color_scheme": "3",
         "full_width": false,
         "button_style": "btn btn--primary"
       }
@@ -119,7 +119,7 @@
         "newsletter-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sé el primero en enterarte de las novedades que <strong>Titan Black Essential<\/strong> tiene para ti<\/p>",
+            "text": "<p>Sé el primero en enterarte de las novedades que <strong>Titan Black Essential</strong> tiene para ti</p>",
             "enlarge_text": false
           }
         },
