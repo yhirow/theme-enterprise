@@ -475,10 +475,9 @@
     },
     "recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
-        "heading": "You may also like",
-        "heading_align": "text-start",
+        "heading": "Descubre estas recomendaciones",
+        "heading_align": "text-center",
         "layout": "carousel",
         "card_size": "small",
         "products_to_show": 8
