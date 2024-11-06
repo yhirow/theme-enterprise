@@ -558,7 +558,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Descubre estas recomendaciones",
         "heading_align": "text-start",
         "layout": "carousel",
         "card_size": "small",
