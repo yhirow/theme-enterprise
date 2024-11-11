@@ -538,7 +538,7 @@
         "products_to_show": 4,
         "show_promo_info": true,
         "image": "shopify://shop_images/mobile.jpg",
-        "image_ratio": "fill",
+        "image_ratio": "natural",
         "promo_title": "",
         "content": "",
         "link_url": "",
