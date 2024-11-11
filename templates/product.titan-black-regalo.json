@@ -1,0 +1,489 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor-sku": {
+          "type": "vendor-sku",
+          "disabled": true,
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "divider-0": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "richtext_dgAHWy": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><br/><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "description_9LTKfi": {
+          "type": "description",
+          "settings": {}
+        },
+        "divider-1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": false,
+            "show_pickup_availability": true
+          }
+        },
+        "message-1": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "icon": "clock",
+            "title": "<p><strong>Popular right now<br/></strong>Lots of people have looked at this recently</p>",
+            "close": "once",
+            "show_over_media": true,
+            "visibility_duration": 4,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        },
+        "message-2": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "icon": "price_tag",
+            "title": "<p><strong>Selling fast!<br/></strong>Grab yours while you can</p>",
+            "close": "once",
+            "show_over_media": true,
+            "visibility_duration": 5,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        },
+        "collapsible-content-1": {
+          "type": "collapsible-content",
+          "disabled": true,
+          "settings": {
+            "heading": "Care information",
+            "icon": "heart",
+            "text": "<p>Display general product information or specific product information using metafields.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible-content-2": {
+          "type": "collapsible-content",
+          "disabled": true,
+          "settings": {
+            "heading": "Delivery and Shipping",
+            "icon": "truck",
+            "text": "<p>Add some general information about your delivery and shipping policies.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "message-3": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "title": "<p>Add a stand out message for your customers</p>",
+            "close": "once",
+            "show_over_media": false,
+            "visibility_duration": 7,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        }
+      },
+      "block_order": [
+        "vendor-sku",
+        "title",
+        "price",
+        "divider-0",
+        "richtext_dgAHWy",
+        "variant-picker",
+        "description_9LTKfi",
+        "divider-1",
+        "buy-buttons",
+        "message-1",
+        "message-2",
+        "collapsible-content-1",
+        "collapsible-content-2",
+        "share",
+        "message-3"
+      ],
+      "settings": {
+        "stick_on_scroll": true,
+        "sticky_atc_panel": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "media_layout": "stacked",
+        "media_size": "default",
+        "media_ratio": "1",
+        "media_crop": "none",
+        "hover_zoom": "off",
+        "enable_video_looping": false,
+        "stacked_scroll": "always",
+        "underline_active": true,
+        "media_thumbs": "desktop",
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "media_arrows": "never",
+        "show_slide_count": true,
+        "border_color": "#eeeeee",
+        "bg_color": "#f4f4f4",
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "details": {
+      "type": "product-details",
+      "blocks": {
+        "richtext_jKWk4T": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
+          }
+        },
+        "highlight-text": {
+          "type": "highlight-text",
+          "disabled": true,
+          "settings": {
+            "title": "Bienvenido a la era del Titanio",
+            "text": "<p><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
+          }
+        },
+        "richtext_bntz74": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about this product with your customers.</p>"
+          }
+        },
+        "tabs": {
+          "type": "tabs",
+          "disabled": true,
+          "settings": {
+            "style": "tabs",
+            "show_description": true,
+            "show_specification": false,
+            "show_reviews": false,
+            "spec_metafields": "",
+            "spec_right_align": false,
+            "spec_show_empty_metafields": true,
+            "spec_empty_field_text": "-",
+            "tab_1_title": "",
+            "tab_1_text": "",
+            "tab_1_page": "",
+            "tab_2_title": "",
+            "tab_2_text": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_text": "",
+            "tab_3_page": ""
+          }
+        },
+        "payment-methods": {
+          "type": "payment-methods",
+          "settings": {
+            "title": "Paga con Confianza",
+            "title1": "",
+            "show_payment_icons": true,
+            "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.</p>",
+            "title2": "",
+            "text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_jKWk4T",
+        "highlight-text",
+        "richtext_bntz74",
+        "tabs",
+        "payment-methods"
+      ],
+      "settings": {}
+    },
+    "product-features": {
+      "type": "product-features",
+      "blocks": {
+        "product-features-feature-0": {
+          "type": "feature",
+          "settings": {
+            "heading": "Mangos de Acero Inoxidable",
+            "text": "<p>Permite usar la batería en la estufa o en el horno</p>",
+            "content_align": "text-start",
+            "hotspot_x": 20,
+            "hotspot_y": 53
+          }
+        },
+        "product-features-feature-1": {
+          "type": "feature",
+          "settings": {
+            "heading": "Antiadherente de Titanio",
+            "text": "<p>Máxima resistencia y poder antiadherente</p>",
+            "content_align": "text-center",
+            "hotspot_x": 35,
+            "hotspot_y": 80
+          }
+        },
+        "product-features-feature-2": {
+          "type": "feature",
+          "settings": {
+            "heading": "Inteligencia Culinaria",
+            "text": "<p>La flama cambiar de color cuando la sartén esta caliente</p>",
+            "content_align": "text-start",
+            "hotspot_x": 38,
+            "hotspot_y": 65
+          }
+        },
+        "product-features-feature-3": {
+          "type": "feature",
+          "settings": {
+            "heading": "Tapas Vidrio Templado",
+            "text": "<p>Resisten 870 grados</p>",
+            "content_align": "text-start",
+            "hotspot_x": 60,
+            "hotspot_y": 70
+          }
+        },
+        "feature_LX8BEi": {
+          "type": "feature",
+          "settings": {
+            "heading": "10 Piezas de Regalo",
+            "text": "<p>Set de utensillos de cocina Titan Black Essential</p>",
+            "content_align": "text-end",
+            "hotspot_x": 90,
+            "hotspot_y": 70
+          }
+        }
+      },
+      "block_order": [
+        "product-features-feature-0",
+        "product-features-feature-1",
+        "product-features-feature-2",
+        "product-features-feature-3",
+        "feature_LX8BEi"
+      ],
+      "settings": {
+        "product": "titan-black",
+        "show_content": true,
+        "layout": "text_first",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "heading_size": "h3",
+        "enlarge_text": false,
+        "title": "Característica del Producto",
+        "description": "<p>Innovación y estilo para tu cocina</p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#e66936",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_align": "text-start",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 8
+      }
+    },
+    "media_grid_tMXWhi": {
+      "type": "media-grid",
+      "blocks": {
+        "media_CDrqCd": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_MG_BENEFICIOS_2.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_qcPgkb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_SARTENES_CONJUNTO_v1_2.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_4Eaepz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_CACEROLAS_v1_2.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_PzNzgK": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/UTENSILIOS_1.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_EctqeC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_CDrqCd",
+        "media_qcPgkb",
+        "media_4Eaepz",
+        "media_PzNzgK",
+        "media_EctqeC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    },
+    "featured_collection_BEJAnP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Productos TITAN BLACK ESSENTIAL",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "titan-black",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_promo_info": true,
+        "image": "shopify://shop_images/1x1-banner-final.png",
+        "image_ratio": "fill",
+        "promo_title": "",
+        "content": "",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "details",
+    "product-features",
+    "recommendations",
+    "media_grid_tMXWhi",
+    "featured_collection_BEJAnP"
+  ]
+}
