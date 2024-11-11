@@ -37,13 +37,6 @@
             "spacing": "mt-8 mb-8"
           }
         },
-        "richtext_dgAHWy": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><br/><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
-          }
-        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -55,8 +48,15 @@
             "size_chart_page": ""
           }
         },
+        "richtext_zbX4Hw": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p><strong>Dale a tu cocina, un estilo único con la batería más elegante, diseñada para que cocines las recetas más exclusivas.</strong></p><ul><li>Cacerola de gran capacidad para cocinar hasta para 16 personas (28cm).</li><li>Cacerola para 12 invitados (20cm).</li><li>Sartén para guisados para 14 personas (28cm).</li><li>Sartén para 12 personas (24cm).</li><li>Sartén para 10 personas (20cm).</li><li>Sartén profundo para 16 comensales (28cm).</li><li>Sartén tipo wok para 12 personas (24cm).</li><li>Tres tapas de vidrio templado con válvula de escape.</li><li>Set de doce utensilios </li></ul><p>INCLUYE DE REGALO</p><ul><li>Wok (24cm) para 12 personas<br/></li></ul><p>Pide ahora tu <strong>TITAN BLACK</strong> y aprovecha este precio increíble, por tiempo limitado</p>"
+          }
+        },
         "description_9LTKfi": {
           "type": "description",
+          "disabled": true,
           "settings": {}
         },
         "divider-1": {
@@ -139,12 +139,6 @@
             "bg_color": "#e4edfa",
             "text_color": "#1a66d2"
           }
-        },
-        "richtext_zbX4Hw": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p><strong>Dale a tu cocina, un estilo único con la batería más elegante, diseñada para que cocines las recetas más exclusivas.</strong></p><ul><li>Cacerola de gran capacidad para cocinar hasta para 16 personas (28cm).</li><li>Cacerola para 12 invitados (20cm).</li><li>Sartén para guisados para 14 personas (28cm).</li><li>Sartén para 12 personas (24cm).</li><li>Sartén para 10 personas (20cm).</li><li>Sartén profundo para 16 comensales (28cm).</li><li>Sartén tipo wok para 12 personas (24cm).</li><li>Tres tapas de vidrio templado con válvula de escape.</li><li>Set de doce utensilios </li></ul><p>INCLUYE DE REGALO</p><ul><li>Wok (24cm) para 12 personas<br/></li></ul><p>Pide ahora tu <strong>TITAN BLACK</strong> y aprovecha este precio increíble, por tiempo limitado</p>"
-          }
         }
       },
       "block_order": [
@@ -152,8 +146,8 @@
         "title",
         "price",
         "divider-0",
-        "richtext_dgAHWy",
         "variant-picker",
+        "richtext_zbX4Hw",
         "description_9LTKfi",
         "divider-1",
         "buy-buttons",
@@ -162,8 +156,7 @@
         "collapsible-content-1",
         "collapsible-content-2",
         "share",
-        "message-3",
-        "richtext_zbX4Hw"
+        "message-3"
       ],
       "settings": {
         "stick_on_scroll": true,
