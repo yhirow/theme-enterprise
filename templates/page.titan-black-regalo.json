@@ -81,19 +81,20 @@
         "form button {width: auto;}"
       ],
       "settings": {
-        "title": "Añade antes de que se agoten",
+        "title": "Agrégalo antes de que se agoten",
         "heading_align": "text-center",
         "show_view_all": false,
         "collection": "titan-black-regalos",
         "layout": "carousel",
         "card_size": "large",
         "products_to_show": 4,
-        "show_promo_info": false,
+        "show_promo_info": true,
+        "image": "shopify://shop_images/mobile.jpg",
         "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "promo_title": "",
+        "content": "",
         "link_url": "",
-        "button_label": "Button",
+        "button_label": "",
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
@@ -525,6 +526,27 @@
         "prevent_animation": true
       }
     },
+    "featured_collection_HbQT8q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Agrégalo antes de que se agoten",
+        "heading_align": "text-center",
+        "show_view_all": false,
+        "collection": "titan-black-regalos",
+        "layout": "carousel",
+        "card_size": "large",
+        "products_to_show": 4,
+        "show_promo_info": true,
+        "image": "shopify://shop_images/mobile.jpg",
+        "image_ratio": "fill",
+        "promo_title": "",
+        "content": "",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
     "slideshow_aUNzPc": {
       "type": "slideshow",
       "blocks": {
@@ -722,6 +744,7 @@
     },
     "featured_collection_BjKMUQ": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".cc-featured-collection {background: white; padding-top: 20px; padding-bottom: 20px;}",
         "product-card {border-radius: 8px;}",
@@ -1037,6 +1060,7 @@
     "media_with_text_ALczPF",
     "video_Jz7mGL",
     "slideshow_L68GBD",
+    "featured_collection_HbQT8q",
     "slideshow_aUNzPc",
     "featured_collection_BjKMUQ",
     "image_banner_dnkUJM",
