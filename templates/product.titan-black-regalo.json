@@ -160,7 +160,7 @@
       ],
       "settings": {
         "stick_on_scroll": true,
-        "sticky_atc_panel": true,
+        "sticky_atc_panel": false,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
         "media_layout": "stacked",
@@ -188,7 +188,7 @@
         "richtext_jKWk4T": {
           "type": "richtext",
           "settings": {
-            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p><strong>TITAN BLACK ESSENTIAL</strong> se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta sartén sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p><p>Su revestimiento antiadherente no sólo facilita la limpieza, sino que también evita que los sabores de tus comidas se mezclen, permitiéndote disfrutar de platillos sanos y deliciosos en todo momento.</p>"
+            "text": "<p><strong>Bienvenido a la era del Titanio</strong></p><p>TITAN BLACK ESSENTIAL se ha diseñado bajo los más altos estándares, creando una nueva era en la cocina, la era del titanio de última generación. El titanio es conocido por su resistencia y durabilidad excepcionales, garantizando que esta batería sea un elemento imprescindible en tu cocina durante años, ya que soporta hasta 90 mil lavadas.</p>"
           }
         },
         "highlight-text": {
@@ -232,12 +232,13 @@
         "payment-methods": {
           "type": "payment-methods",
           "settings": {
-            "title": "Paga con Confianza",
-            "title1": "",
+            "title": "Garantías",
+            "title1": "Pago Seguro",
             "show_payment_icons": true,
             "text1": "<p>La información de tu pago se procesa de manera segura. No almacenamos los detalles de tu tarjeta de crédito ni tenemos acceso a la información de tu tarjeta de crédito.</p>",
-            "title2": "",
-            "text2": ""
+            "title2": "Garantía de Devolución",
+            "image": "shopify://shop_images/garantia-banner_8ae5d961-b025-4d25-b09a-c40f34c1347a.png",
+            "text2": "<p>Sólo acude a una paquetería con la guía pre-pagada que va incluida en tu caja de Titan Black Essential, y listo, así de fácil. </p><p>En 72 horas te devolveremos tu dinero en el mismo medio de pago que utilizaste en la compra.</p>"
           }
         }
       },
@@ -250,6 +251,224 @@
       ],
       "settings": {}
     },
+    "slideshow_pHGDRm": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_YnPDfg": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/banner_destacado.png",
+            "image_mobile": "shopify://shop_images/banner_destacado_mobile.png",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Tecnología de vanguardia",
+            "heading_size": "h2",
+            "heading_h1": false,
+            "text": "<p>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre</p>",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_YnPDfg"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.slideshow__text {/* Posicion del texto abajo en mobile */ position: absolute; bottom: 80px; }}"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "media_with_text_tjHiwW": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_Q9RpAY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Devoluciones sin fricciones",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_8q4X9w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si no estás 100% satisfecho, ¡te devolvemos tu dinero! Así de simple. No necesitamos un motivo, ni una historia, ni una excusa. Si no amas lo que compraste, devuélvelo. Te daremos cada centavo de vuelta, y con una sonrisa.</p><p><strong>¿Te atreves a ponernos a prueba?</strong></p><p>Sólo acude a una paquetería con la guía per-pagada que va incluida en tu cada de Titan Black Essential, y listo, así de fácil.</p><p>En 48 horas tendrás tu dinero en el mismo medio de pago que utilizaste para comprar. </p>",
+            "enlarge_text": false
+          }
+        },
+        "button_EYPWPa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conocer más",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q9RpAY",
+        "text_8q4X9w",
+        "button_EYPWPa"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Devolucion_1x1_edc5d6a3-d935-402b-84ba-d64c126caefc.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "media_with_text_y3ENhX": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_ezdMXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Todo terreno",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "subheading_zzDnCh": {
+          "type": "subheading",
+          "settings": {
+            "text": "Una versatilidad insuperable"
+          }
+        },
+        "text_bFwEtE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_XwY7wn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezdMXn",
+        "subheading_zzDnCh",
+        "text_bFwEtE",
+        "button_XwY7wn"
+      ],
+      "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
+        "@media only screen and (min-width: 600px) {.section--padded {/* Elimina Padding en mobile*/ padding-bottom: 0; }}",
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {/* Imagenes al 100% y agrega padding al texto */ .container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/0_1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "media_with_text_eBEy3r": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_J3QDTU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un legado que trasciende generaciones",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "subheading_FnHYDt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Diseñada para resistir el paso del tiempo."
+          }
+        },
+        "text_zBP3yh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_KpBXyr": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J3QDTU",
+        "subheading_FnHYDt",
+        "text_zBP3yh",
+        "button_KpBXyr"
+      ],
+      "custom_css": [
+        ".media-with-text {max-width: 1288px;}",
+        ".cc-media-with-text {background: black;}",
+        "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
+        "h2,p {color: white;}",
+        "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
     "product-features": {
       "type": "product-features",
       "blocks": {
@@ -259,8 +478,8 @@
             "heading": "Mangos de Acero Inoxidable",
             "text": "<p>Permite usar la batería en la estufa o en el horno</p>",
             "content_align": "text-start",
-            "hotspot_x": 20,
-            "hotspot_y": 53
+            "hotspot_x": 16,
+            "hotspot_y": 17
           }
         },
         "product-features-feature-1": {
@@ -269,8 +488,8 @@
             "heading": "Antiadherente de Titanio",
             "text": "<p>Máxima resistencia y poder antiadherente</p>",
             "content_align": "text-center",
-            "hotspot_x": 35,
-            "hotspot_y": 80
+            "hotspot_x": 17,
+            "hotspot_y": 46
           }
         },
         "product-features-feature-2": {
@@ -279,8 +498,8 @@
             "heading": "Inteligencia Culinaria",
             "text": "<p>La flama cambiar de color cuando la sartén esta caliente</p>",
             "content_align": "text-start",
-            "hotspot_x": 38,
-            "hotspot_y": 65
+            "hotspot_x": 31,
+            "hotspot_y": 54
           }
         },
         "product-features-feature-3": {
@@ -289,7 +508,7 @@
             "heading": "Tapas Vidrio Templado",
             "text": "<p>Resisten 870 grados</p>",
             "content_align": "text-start",
-            "hotspot_x": 60,
+            "hotspot_x": 62,
             "hotspot_y": 70
           }
         },
@@ -300,7 +519,7 @@
             "text": "<p>Set de utensillos de cocina Titan Black Essential</p>",
             "content_align": "text-end",
             "hotspot_x": 90,
-            "hotspot_y": 70
+            "hotspot_y": 59
           }
         }
       },
@@ -311,6 +530,7 @@
         "product-features-feature-3",
         "feature_LX8BEi"
       ],
+      "custom_css": [],
       "settings": {
         "product": "titan-black",
         "show_content": true,
@@ -319,6 +539,7 @@
         "mob_center_text": true,
         "heading_size": "h3",
         "enlarge_text": false,
+        "image": "shopify://shop_images/3.png",
         "title": "Característica del Producto",
         "description": "<p>Innovación y estilo para tu cocina</p>",
         "button_label": "",
@@ -331,7 +552,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Descubre estas recomendaciones",
         "heading_align": "text-start",
         "layout": "carousel",
         "card_size": "small",
@@ -344,7 +565,7 @@
         "media_CDrqCd": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Copia_de_MG_BENEFICIOS_2.png",
+            "image": "shopify://shop_images/MG_BENEFICIOS-1x1-nuevo.png",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -365,65 +586,8 @@
           "settings": {
             "image": "shopify://shop_images/Copia_de_SARTENES_CONJUNTO_v1_2.png",
             "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_4Eaepz": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_CACEROLAS_v1_2.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_PzNzgK": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/UTENSILIOS_1.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_EctqeC": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
+            "columns": 2,
+            "rows": 2,
             "subheading": "",
             "title": "",
             "heading_size": "h4",
@@ -439,10 +603,10 @@
       },
       "block_order": [
         "media_CDrqCd",
-        "media_qcPgkb",
-        "media_4Eaepz",
-        "media_PzNzgK",
-        "media_EctqeC"
+        "media_qcPgkb"
+      ],
+      "custom_css": [
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Proporción 1:1 */}"
       ],
       "settings": {
         "title": "",
@@ -452,22 +616,83 @@
         "gallery_cols_max": 4,
         "gallery_cols_min": "1",
         "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
+        "fixed_height_mobile": 180,
+        "color_scheme": "white"
+      }
+    },
+    "media_grid_cdtgKk": {
+      "type": "media-grid",
+      "blocks": {
+        "media_cYWepE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/UTENSILIOS_1.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_c8P8TF": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/MG_PROPIEDADES-shopi-4_0710b843-ea20-4544-a659-681d4e237723.png",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_cYWepE",
+        "media_c8P8TF"
+      ],
+      "custom_css": [
+        ".gallery-block__image img {width: 100%; height: auto; object-fit: cover; aspect-ratio: 1 / 1; /* Mantener la proporción 1:1 */}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 180,
         "color_scheme": "white"
       }
     },
     "featured_collection_BEJAnP": {
       "type": "featured-collection",
       "settings": {
-        "title": "Productos TITAN BLACK ESSENTIAL",
+        "title": "LINEA TITAN BLACK ESSENTIAL",
         "heading_align": "text-start",
         "show_view_all": true,
         "collection": "titan-black",
         "layout": "carousel",
         "card_size": "small",
         "products_to_show": 8,
-        "show_promo_info": true,
-        "image": "shopify://shop_images/1x1-banner-final.png",
+        "show_promo_info": false,
+        "image": "shopify://shop_images/Devolucion_4x5_1a1cd4aa-2d06-495a-b9f8-ad26b1327bff.png",
         "image_ratio": "fill",
         "promo_title": "",
         "content": "",
@@ -481,9 +706,14 @@
   "order": [
     "main",
     "details",
+    "slideshow_pHGDRm",
+    "media_with_text_tjHiwW",
+    "media_with_text_y3ENhX",
+    "media_with_text_eBEy3r",
     "product-features",
     "recommendations",
     "media_grid_tMXWhi",
+    "media_grid_cdtgKk",
     "featured_collection_BEJAnP"
   ]
 }
