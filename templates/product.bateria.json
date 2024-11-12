@@ -553,7 +553,7 @@
       "type": "product-recommendations",
       "settings": {
         "heading": "Descubre estas recomendaciones",
-        "heading_align": "text-start",
+        "heading_align": "text-center",
         "layout": "carousel",
         "card_size": "large",
         "products_to_show": 4
