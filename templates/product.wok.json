@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -22,8 +22,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -58,8 +57,7 @@
         },
         "description_9LTKfi": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "divider-1": {
           "type": "divider",
@@ -127,8 +125,7 @@
         "share": {
           "type": "share",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "message-3": {
           "type": "message",
@@ -163,7 +160,7 @@
       ],
       "settings": {
         "stick_on_scroll": true,
-        "sticky_atc_panel": true,
+        "sticky_atc_panel": false,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
         "media_layout": "stacked",
@@ -251,8 +248,7 @@
         "tabs",
         "payment-methods"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "slideshow_kPLBP7": {
       "type": "slideshow",
@@ -284,7 +280,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -458,9 +454,7 @@
         "product-features-feature-3",
         "feature_LX8BEi"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product": "titan-black",
         "show_content": true,
@@ -482,11 +476,11 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Descubre estas recomendaciones",
         "heading_align": "text-start",
         "layout": "carousel",
-        "card_size": "small",
-        "products_to_show": 8
+        "card_size": "large",
+        "products_to_show": 4
       }
     },
     "media_grid_tMXWhi": {
