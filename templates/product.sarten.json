@@ -22,8 +22,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -58,8 +57,7 @@
         },
         "description_9LTKfi": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "divider-1": {
           "type": "divider",
@@ -127,8 +125,7 @@
         "share": {
           "type": "share",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "message-3": {
           "type": "message",
@@ -163,7 +160,7 @@
       ],
       "settings": {
         "stick_on_scroll": true,
-        "sticky_atc_panel": true,
+        "sticky_atc_panel": false,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
         "media_layout": "stacked",
@@ -251,8 +248,7 @@
         "tabs",
         "payment-methods"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "slideshow_L4jCbb": {
       "type": "slideshow",
@@ -479,8 +475,8 @@
         "heading": "Descubre estas recomendaciones",
         "heading_align": "text-center",
         "layout": "carousel",
-        "card_size": "small",
-        "products_to_show": 8
+        "card_size": "large",
+        "products_to_show": 4
       }
     },
     "media_grid_tMXWhi": {
