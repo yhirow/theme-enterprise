@@ -168,7 +168,7 @@
       ],
       "settings": {
         "stick_on_scroll": true,
-        "sticky_atc_panel": true,
+        "sticky_atc_panel": false,
         "sticky_atc_position": "end",
         "sticky_atc_mobile": true,
         "media_layout": "stacked",
