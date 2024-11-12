@@ -339,11 +339,11 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
-        "heading_align": "text-start",
+        "heading": "Te puede interesar",
+        "heading_align": "text-center",
         "layout": "carousel",
-        "card_size": "small",
-        "products_to_show": 8
+        "card_size": "large",
+        "products_to_show": 4
       }
     },
     "media_grid_tMXWhi": {
