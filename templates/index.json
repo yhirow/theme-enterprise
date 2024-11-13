@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_dq7ayP": {
@@ -88,7 +88,7 @@
             "heading_size": "h2",
             "heading_h1": false,
             "text": "<p>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente y sabores inigualables.</p>",
-            "enlarge_text": false,
+            "enlarge_text": true,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
@@ -724,9 +724,7 @@
     "image_banner_dnkUJM": {
       "type": "image-banner",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "image_desktop": "shopify://shop_images/png-banner-wen-sin-fondo.png",
         "image_mobile": "shopify://shop_images/1x1-fondo-gris.png",
@@ -932,8 +930,7 @@
         },
         "title_fUf6ig": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_rb9Hk3": {
           "type": "price",
