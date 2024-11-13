@@ -87,8 +87,8 @@
             "heading": "Bienvenidos a la era del titanio",
             "heading_size": "h2",
             "heading_h1": false,
-            "text": "<p>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente y sabores inigualables.</p>",
-            "enlarge_text": true,
+            "text": "<h6>El titanio es sinónimo de durabilidad, ligereza, poder antiadherente y sabores inigualables.</h6>",
+            "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
@@ -148,8 +148,8 @@
             "heading": "",
             "heading_size": "h0",
             "heading_h1": false,
-            "text": "<p>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre.</p>",
-            "enlarge_text": true,
+            "text": "<h6>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre.</h6>",
+            "enlarge_text": false,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
@@ -214,8 +214,8 @@
         "text_dXtQzb": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
-            "enlarge_text": true
+            "text": "<h6><strong>Una versatilidad insuperable</strong></h6><h6>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </h6><h6>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</h6>",
+            "enlarge_text": false
           }
         }
       },
@@ -228,7 +228,7 @@
         ".media-with-text {max-width: 1288px;}",
         ".cc-media-with-text {background: black;}",
         "@media only screen and (min-width: 600px) {.section--padded {/* Elimina Padding en mobile*/ padding-bottom: 0; }}",
-        "h2,p {color: white;}",
+        "h2,h6,p {color: white;}",
         "@media only screen and (max-width: 450px) {/* Imagenes al 100% y agrega padding al texto */ .container {padding: 0; } .text-start {padding: 10%; } .section--padded {padding: 0; }}"
       ],
       "settings": {
@@ -261,8 +261,8 @@
         "text_7TYddi": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Diseñada para resistir el paso del tiempo.</strong></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
-            "enlarge_text": true
+            "text": "<h6><strong>Diseñada para resistir el paso del tiempo.</strong></h6><h6>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </h6><h6>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</h6>",
+            "enlarge_text": false
           }
         }
       },
@@ -275,7 +275,7 @@
         ".media-with-text {max-width: 1288px;}",
         ".cc-media-with-text {background: black;}",
         "@media only screen and (min-width: 600px) {.section--padded {padding-top: 0; }}",
-        "h2,p {color: white;}",
+        "h2,h6,p {color: white;}",
         "@media only screen and (max-width: 450px) {.container {padding: 0; } .text-start {padding: 10%; }}"
       ],
       "settings": {
