@@ -149,7 +149,7 @@
             "heading_size": "h0",
             "heading_h1": false,
             "text": "<p>Imagina cocinar con la misma tencnología que utiliza la industria aeroespacial.<strong> Nuesta batería de cocina contiene partículas de titanio en el antiadherente,</strong> el mismo utilizado en la construcción de vehículos que viajan más allá de la atmósfera terrestre.</p>",
-            "enlarge_text": false,
+            "enlarge_text": true,
             "button_1_label": "",
             "button_1_link": "",
             "button_1_style": "btn btn--primary",
@@ -208,14 +208,14 @@
         "subheading_DTAjTd": {
           "type": "subheading",
           "settings": {
-            "text": "Una versatilidad insuperable"
+            "text": ""
           }
         },
         "text_dXtQzb": {
           "type": "text",
           "settings": {
-            "text": "<p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
-            "enlarge_text": false
+            "text": "<p><strong>Una versatilidad insuperable</strong></p><p>Nuestra batería de cocina está diseñada para todo tipo de cocinas: úsala en la estufa  o en el horno, gracias al titanio y sus mangos de metal puede soportar temperaturas  de hasta 870° C. </p><p>Compatible con estufas convencionales, eléctricas y de inducción, es la herramienta perfecta para cualquier desafío culinario.</p>",
+            "enlarge_text": true
           }
         }
       },
@@ -255,14 +255,14 @@
         "subheading_9mT7yA": {
           "type": "subheading",
           "settings": {
-            "text": "Diseñada para resistir el paso del tiempo."
+            "text": ""
           }
         },
         "text_7TYddi": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
-            "enlarge_text": false
+            "text": "<p><strong>Diseñada para resistir el paso del tiempo.</strong></p><p>Titan Black Essential es mucho más que una batería de cocina: es una herencia culinaria. </p><p>Con una durabilidad garantizada de más de 200 años, o hasta 90,000 lavadas, esta batería permanecerá en tu cocina para crear sabores y momentos que perdurarán por generaciones.</p>",
+            "enlarge_text": true
           }
         }
       },
