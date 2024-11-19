@@ -48,6 +48,7 @@
       "block_order": [
         "slide_UbKC9n"
       ],
+      "disabled": true,
       "custom_css": [
         ".btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
@@ -111,7 +112,6 @@
       "block_order": [
         "slide_PHK4iK"
       ],
-      "disabled": true,
       "custom_css": [
         ".btn--primary {margin-bottom: 40px; background: #a23163; border: 0; color: white;}",
         ".slideshow__text.container .link {display: none;}",
